@@ -1,0 +1,36 @@
+footer {
+  background-color: $terciary-background-color;
+  color: $secondary-text-color;
+
+  a {
+    color: white;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+    &:visited {
+      color: $secondary-text-color;
+    }
+  }
+
+  .contact {
+    padding-top: 3rem;
+  }
+
+  .social {
+    padding-top: 3rem;
+
+    a {
+      padding: 0 2rem;
+    }
+  }
+
+  .disclaimer {
+    color: $terciary-text-color;
+    padding-bottom: 1rem;
+    padding-top: 3rem;
+    text-align: left;
+    padding-left: 1rem;
+  }
+}

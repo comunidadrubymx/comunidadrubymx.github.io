@@ -1,0 +1,16 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.metadata.title }}, {{ site.metadata.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.metadata.myvariable }}.
+
+title: Comunidad Ruby MX
+tagline: Página de la Comunidad Ruby MX, donde cada mes nos reunímos para hablar sobre Ruby y su ecosistema
+email: info@comunidadruby.mx
+description: >-
+  Write an awesome description for your new site here. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+social:
+  facebook: https://fb.com/comunidadrubymx
+  instagram: https://instagram.com/comunidadrubymx
+  twitter: https://twitter.com/comunidadrubymx
+  github: https://github.com/comunidadrubymx

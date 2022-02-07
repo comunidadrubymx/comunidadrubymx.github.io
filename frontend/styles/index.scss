@@ -1,0 +1,50 @@
+@import "reset.scss";
+
+$primary-text-color: #000;
+$secondary-text-color: #FFF;
+$terciary-text-color: #969696;
+
+$primary-background-color: #FFF;
+$secondary-background-color: #E8031B;
+$terciary-background-color: #000;
+
+body {
+  background: $primary-background-color;
+  color: $primary-text-color;
+  font-family: sans-serif;
+}
+
+h1, nav, footer {
+  text-align: center;
+}
+
+main {
+  margin: 4rem auto;
+  min-height: 36rem;
+  padding: 1rem 3rem;
+
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 1.5rem;
+  }
+
+  p {
+    font-size: 2rem;
+    padding: 1rem 0;
+    text-align: center;
+  }
+
+  a {
+    color: $primary-text-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+    &:visited {
+      color: $primary-text-color;
+    }
+  }
+}
+
+@import "components.scss"
