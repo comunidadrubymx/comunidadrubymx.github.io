@@ -1,4 +1,4 @@
-[![pages-build-deployment](https://github.com/comunidadrubymx/comunidadrubymx.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/comunidadrubymx/comunidadrubymx.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deploy](https://github.com/comunidadrubymx/comunidadrubymx.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/comunidadrubymx/comunidadrubymx.github.io/actions/workflows/deploy.yml)
 
 # Bridgetown Website README
 
