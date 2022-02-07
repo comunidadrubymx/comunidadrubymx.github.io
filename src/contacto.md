@@ -12,4 +12,4 @@ Facebook: <https://fb.com/comunidadrubymx>
 
 Instagram: <https://instagram.com/comunidadrubymx>
 
-Twitter: <https://github.com/comunidadrubymx>
+Twitter: <https://twitter.com/comunidadrubymx>
