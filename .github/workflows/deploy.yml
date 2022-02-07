@@ -11,6 +11,6 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build & Deploy to GitHub Pages
-        uses: comunidadrubymx/bridgetown-gh-pages-action@v0.0.4
+        uses: comunidadrubymx/bridgetown-gh-pages-action@v0.0.5
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
