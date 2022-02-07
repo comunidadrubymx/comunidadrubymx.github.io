@@ -1,0 +1,2 @@
+- name: Bridgetown Github Pages Action
+  uses: andrewmcodes/bridgetown-gh-pages-action@v0.0.3
