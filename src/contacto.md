@@ -4,7 +4,9 @@ layout: home
 
 # Contacto
 
-Puedes enviar tus sugerencias al correo info@comunidadruby.mx
+Puedes enviar tus sugerencias al correo
+
+<info@comunidadruby.mx>
 
 También puedes contactarnos en nuestras redes sociales:
 
