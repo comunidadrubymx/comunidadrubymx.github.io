@@ -9,4 +9,6 @@ Guadalajara, Jalisco
 
 Evento de lanzamiento
 
-23 de Febrero del 2022
+16 de Marzo del 2022
+
+<div id="countdown"></div>
