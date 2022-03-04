@@ -2,8 +2,7 @@
 layout: home
 ---
 
-
-# Comunidad Ruby MX
+![](/images/full-light-color.png)
 
 Guadalajara, Jalisco
 
