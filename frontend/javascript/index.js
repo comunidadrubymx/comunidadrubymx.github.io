@@ -30,3 +30,12 @@ simplyCountdown('#countdown', {
   zeroPad: false,
   countUp: false
 });
+
+window.toggleMenu = () => {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
