@@ -14,7 +14,7 @@ Dirección: [Av. Ignacio L. Vallarta 3300-Piso 2, Vallarta Nte., 44690 Guadalaja
 
 Entrada libre. Boletos en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-marzo-2022-tickets-293324901677)
 
-Detalles del streaming el día del eventos en nuestras redes sociales
+Detalles del streaming el día del evento en nuestras redes sociales
 
 ---
 
@@ -38,9 +38,9 @@ Agenda:
 
 Sobre nuestro ponente
 
-César Eduardo
+César Eduardo - [@pkgears](https://twitter.com/pkgears)
 
-Desarrollador Ruby graduado del Instituto Tecnológico de Durango. 6 años de programando, creando y resolviendo bugs en diferentes tecnologías tanto front-end y back-end, pero siempre más enfocado al desarrollo con Ruby on Rails. He participado en proyectos de México, Estados Unidos y Colombia que van desde sistemas de transporte, fintechs, venta de boletos y sistemas escolares.
+Desarrollador Ruby graduado del Instituto Tecnológico de Durango. 6 años de programando, creando y resolviendo bugs en diferentes tecnologías tanto front-end y back-end, pero siempre más enfocado al desarrollo con Ruby on Rails. Ha participado en proyectos de México, Estados Unidos y Colombia que van desde sistemas de transporte, fintechs, venta de boletos y sistemas escolares.
 
 ---
 
