@@ -20,17 +20,17 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 Agenda:
 
-7:00 Bienvenida
+7:00 Registro
 
-7:30 Primera charla
+7:30 Bienvenida
 
-8:00 Mensaje de nuestro patrocionador
+7:40 Novedades de Rails 7 - Antes y después / César Eduardo
 
-8:10 Break
+8:10 Mensaje de nuestro patrocinador
 
-8:30 Novedades de Rails 7 - Antes y después / César Eduardo
+8:20 Avisos
 
-9:00 Networking
+8:30 Cierra del evento y networking
 
 9:30 Fin del evento
 
