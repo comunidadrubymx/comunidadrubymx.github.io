@@ -30,7 +30,7 @@ Agenda:
 
 8:20 Avisos
 
-8:30 Cierra del evento y networking
+8:30 Cierre del evento y networking
 
 9:30 Fin del evento
 
