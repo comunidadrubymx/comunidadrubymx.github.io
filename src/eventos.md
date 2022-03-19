@@ -4,54 +4,61 @@ layout: home
 
 # Eventos
 
-Próximo evento
+---
 
-![](/images/eventos/marzo_2022.png)
+## Próximo evento
 
-16 de Marzo del 2022 en [Guadalajara Connectory](https://guadalajaraconnectory.com/)
+<!-- ![](/images/eventos/marzo_2022.png) -->
 
-Dirección: [Av. Ignacio L. Vallarta 3300-Piso 2, Vallarta Nte., 44690 Guadalajara, Jal.](https://g.page/guadalajaraconnectory?share)
+20 de Abril del 2022 en [Globant Guadalajara](https://globant.com/)
 
-Entrada libre. Boletos en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-marzo-2022-tickets-293324901677)
+Dirección: [Blvrd Puerta de Hierro 5153-Piso 23, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/zzE6nrnjbzjNCgXbA)
+
+<!-- Entrada libre. Boletos en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-marzo-2022-tickets-293324901677) -->
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
 ---
 
-Agenda:
+## Agenda
 
-7:00 Registro
 
-7:30 Bienvenida
+7:00 Bienvenida
 
-7:40 Novedades de Rails 7 - Antes y después / César Eduardo
+7:30 Introducción a Turbo Rails - Eréndira García
 
-8:10 Mensaje de nuestro patrocinador
+8:00 Mensaje de nuestro patrocionador (Globant)
 
-8:20 Avisos
+8:10 Break
 
-8:30 Cierre del evento y networking
+8:20 Atomic Web Design, cómo comenzar a pensar de forma atómica - Ponente de Globant
+
+8:50 Avisos generales
+
+9:00 Networking
 
 9:30 Fin del evento
 
 ---
 
-Sobre nuestro ponente
+## Sobre nuestros ponentes
 
-César Eduardo - [@pkgears](https://twitter.com/pkgears)
+Eréndira García - [@ereonoere](https://twitter.com/ereonoere)
 
-Desarrollador Ruby graduado del Instituto Tecnológico de Durango. 6 años de programando, creando y resolviendo bugs en diferentes tecnologías tanto front-end y back-end, pero siempre más enfocado al desarrollo con Ruby on Rails. Ha participado en proyectos de México, Estados Unidos y Colombia que van desde sistemas de transporte, fintechs, venta de boletos y sistemas escolares.
+Full Stack developer con más de 15 años de experiencia. Importada desde Eldorado, Sinaloa. Mamá de un plebito de 8 años.
+
 
 ---
 
-Patrocionadores
+## Patrocionadores
+
+[![https://globant.com](/images/patrocinadores/globant.png)](https://globant.com)
 
 [![https://michelada.io](/images/patrocinadores/michelada.png)](https://michelada.io)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
+Muchas gracias a [Globant Guadalajara](https://globant.com) por ser la empresa anfitriona de esta edición
 
-Muchas gracias a [michelada.io](https://michelada.io) por ser la empresa anfitriona de esta edición
-
-También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming
-
+También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming y a [michelada.io](https://michelada.io) por
+el apoyo en la logística del evento
