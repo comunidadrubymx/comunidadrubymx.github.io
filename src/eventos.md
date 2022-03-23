@@ -31,7 +31,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 8:10 Break
 
-8:20 Atomic Web Design, cómo comenzar a pensar de forma atómica - Ponente de Globant
+8:20 Atomic Web Design, cómo comenzar a pensar de forma atómica - Yannik González Alarcón
 
 8:50 Avisos generales
 
@@ -46,6 +46,10 @@ Detalles del streaming el día del evento en nuestras redes sociales
 Eréndira García - [@ereonoere](https://twitter.com/ereonoere)
 
 Full Stack developer con más de 15 años de experiencia. Importada desde Eldorado, Sinaloa. Mamá de un plebito de 8 años.
+
+Yannik González Alarcón - [LinkedIn](https://www.linkedin.com/in/yannik-gonzalez-alarcon-163218a3/)
+
+Más de 10 años de experiencia en el área de desarrollo y arquitectura de software, ha trabajado con tecnologías frontend y backend como React, Angular, Java, NodeJS entre otras. Lo que mas le gusta de su carrera es la diversidad de opciones que tenemos para aprender y crecer.
 
 
 ---
