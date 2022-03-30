@@ -8,13 +8,13 @@ layout: home
 
 ## Próximo evento
 
-<!-- ![](/images/eventos/marzo_2022.png) -->
+![](/images/eventos/abril2.png)
 
 20 de Abril del 2022 en [Globant Guadalajara](https://globant.com/)
 
 Dirección: [Blvrd Puerta de Hierro 5153-Piso 23, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/zzE6nrnjbzjNCgXbA)
 
-<!-- Entrada libre. Boletos en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-marzo-2022-tickets-293324901677) -->
+Entrada libre. Registro [aquí](https://bit.ly/3JUM59o)
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
