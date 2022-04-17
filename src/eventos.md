@@ -27,7 +27,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:30 Introducción a Turbo Rails - Eréndira García
 
-8:00 Mensaje de nuestro patrocionador (Globant)
+8:00 Mensaje de nuestro patrocinador (Globant)
 
 8:10 Break
 
@@ -54,7 +54,7 @@ Más de 10 años de experiencia en el área de desarrollo y arquitectura de soft
 
 ---
 
-## Patrocionadores
+## Patrocinadores
 
 [![https://globant.com](/images/patrocinadores/globant.png)](https://globant.com)
 
