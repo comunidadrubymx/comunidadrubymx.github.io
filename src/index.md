@@ -6,9 +6,9 @@ layout: home
 
 Guadalajara, Jalisco
 
-20 de Abril del 2022
+23 de Junio del 2022
 
-Oficinas de Globant Guadalajara
+WeWork Américas
 
 Todos los detalles en la sección de [eventos](/eventos)
 

@@ -8,13 +8,13 @@ layout: home
 
 ## Próximo evento
 
-![](/images/eventos/abril2.png)
+![](/images/eventos/junio_2022.png)
 
-20 de Abril del 2022 en [Globant Guadalajara](https://globant.com/)
+20 de Abril del 2022 en oficinas de [Salesloft](https://salesloft.com/) (WeWork Américas)
 
-Dirección: [Blvrd Puerta de Hierro 5153-Piso 23, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/zzE6nrnjbzjNCgXbA)
+Dirección: [Av. de las Américas 1254 - Piso 16, Country Club, 44610 Guadalajara, Jal.](https://g.page/wework-av-de-las-americas-1254)
 
-Entrada libre. Registro [aquí](https://bit.ly/3JUM59o)
+Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-junio-2022-tickets-355647480187)
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
@@ -25,13 +25,13 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:00 Bienvenida
 
-7:30 Introducción a Turbo Rails - Eréndira García
+7:30 Primera charla
 
-8:00 Mensaje de nuestro patrocinador (Globant)
+8:00 Mensaje de nuestro patrocinador (Salesloft)
 
 8:10 Break
 
-8:20 Atomic Web Design, cómo comenzar a pensar de forma atómica - Yannik González Alarcón
+8:20 Segunda charla
 
 8:50 Avisos generales
 
@@ -41,28 +41,15 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ---
 
-## Sobre nuestros ponentes
-
-Eréndira García - [@ereonoere](https://twitter.com/ereonoere)
-
-Full Stack developer con más de 15 años de experiencia. Importada desde Eldorado, Sinaloa. Mamá de un plebito de 8 años.
-
-Yannik González Alarcón - [LinkedIn](https://www.linkedin.com/in/yannik-gonzalez-alarcon-163218a3/)
-
-Más de 10 años de experiencia en el área de desarrollo y arquitectura de software, ha trabajado con tecnologías frontend y backend como React, Angular, Java, NodeJS entre otras. Lo que mas le gusta de su carrera es la diversidad de opciones que tenemos para aprender y crecer.
-
-
----
-
 ## Patrocinadores
 
-[![https://globant.com](/images/patrocinadores/globant.png)](https://globant.com)
+[![https://salesloft.com](/images/patrocinadores/salesloft.png)](https://salesloft.com)
 
 [![https://michelada.io](/images/patrocinadores/michelada.png)](https://michelada.io)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
-Muchas gracias a [Globant Guadalajara](https://globant.com) por ser la empresa anfitriona de esta edición
+Muchas gracias a [Salesloft](https://salesloft.com) por ser la empresa anfitriona de esta edición
 
 También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming y a [michelada.io](https://michelada.io) por
 el apoyo en la logística del evento
