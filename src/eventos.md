@@ -25,7 +25,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:00 Bienvenida
 
-7:30 Primera charla
+7:30 De Pythoner profesional a Rubista aficionado: ¿se parecen en realidad? - Bryan Guerrero
 
 8:00 Mensaje de nuestro patrocinador (Salesloft)
 
@@ -38,6 +38,14 @@ Detalles del streaming el día del evento en nuestras redes sociales
 9:00 Networking
 
 9:30 Fin del evento
+
+---
+
+## Sobre nuestros ponentes
+
+Bryan Guerrero
+
+25 años. Desarrollador Ruby de tiempo completo y ex-pythoner. Biker aficionado. Disfruta la naturaleza y practicar deporte, en especial taekwondo, y la cerveza oscura.
 
 ---
 
