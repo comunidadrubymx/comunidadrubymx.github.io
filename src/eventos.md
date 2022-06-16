@@ -31,7 +31,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 8:10 Break
 
-8:20 Segunda charla
+8:20 Analytics en tiempo real con Rails - Eduardo García
 
 8:50 Avisos generales
 
@@ -46,6 +46,10 @@ Detalles del streaming el día del evento en nuestras redes sociales
 Bryan Guerrero
 
 25 años. Desarrollador Ruby de tiempo completo y ex-pythoner. Biker aficionado. Disfruta la naturaleza y practicar deporte, en especial taekwondo, y la cerveza oscura.
+
+Eduardo García
+
+Eduardo es software engineer en Salesloft, remoteando desde la ciudad de León(dres), Guanajuato. Además de golpear el teclado gran parte del día, gusta por ir al cine, pasear a su perro, armar carnitas asadas con amistades y familia y por supuesto, asistir a eventos de tecnología e incluso ayudar en la organización de las Calzada Code Talks en su ciudad.
 
 ---
 
