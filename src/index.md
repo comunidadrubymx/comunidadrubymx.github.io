@@ -6,9 +6,9 @@ layout: home
 
 Guadalajara, Jalisco
 
-23 de Junio del 2022
+20 de Julio del 2022
 
-WeWork Américas
+<!-- WeWork Américas -->
 
 Todos los detalles en la sección de [eventos](/eventos)
 

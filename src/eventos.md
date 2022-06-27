@@ -8,13 +8,13 @@ layout: home
 
 ## Próximo evento
 
-![](/images/eventos/junio_2022.png)
+![](/images/eventos/julio_2022.png)
 
-20 de Abril del 2022 en oficinas de [Salesloft](https://salesloft.com/) (WeWork Américas)
+20 de Julio del 2022
 
-Dirección: [Av. de las Américas 1254 - Piso 16, Country Club, 44610 Guadalajara, Jal.](https://g.page/wework-av-de-las-americas-1254)
+<!-- Dirección: [Av. de las Américas 1254 - Piso 16, Country Club, 44610 Guadalajara, Jal.](https://g.page/wework-av-de-las-americas-1254) -->
 
-Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-junio-2022-tickets-355647480187)
+<!-- Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-junio-2022-tickets-355647480187) -->
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
@@ -25,13 +25,13 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:00 Bienvenida
 
-7:30 De Pythoner profesional a Rubista aficionado: ¿se parecen en realidad? - Bryan Guerrero
+7:30 Primera charla
 
-8:00 Mensaje de nuestro patrocinador (Salesloft)
+8:00 Mensaje de nuestro patrocinador (nuvocargo)
 
 8:10 Break
 
-8:20 Analytics en tiempo real con Rails - Eduardo García
+8:20 Segunda charla
 
 8:50 Avisos generales
 
@@ -41,27 +41,27 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ---
 
-## Sobre nuestros ponentes
+<!-- ## Sobre nuestros ponentes -->
 
-Bryan Guerrero
+<!-- Bryan Guerrero -->
 
-25 años. Desarrollador Ruby de tiempo completo y ex-pythoner. Biker aficionado. Disfruta la naturaleza y practicar deporte, en especial taekwondo, y la cerveza oscura.
+<!-- 25 años. Desarrollador Ruby de tiempo completo y ex-pythoner. Biker aficionado. Disfruta la naturaleza y practicar deporte, en especial taekwondo, y la cerveza oscura. -->
 
-Eduardo García
+<!-- Eduardo García -->
 
-Eduardo es software engineer en Salesloft, remoteando desde la ciudad de León(dres), Guanajuato. Además de golpear el teclado gran parte del día, gusta por ir al cine, pasear a su perro, armar carnitas asadas con amistades y familia y por supuesto, asistir a eventos de tecnología e incluso ayudar en la organización de las Calzada Code Talks en su ciudad.
+<!-- Eduardo es software engineer en Salesloft, remoteando desde la ciudad de León(dres), Guanajuato. Además de golpear el teclado gran parte del día, gusta por ir al cine, pasear a su perro, armar carnitas asadas con amistades y familia y por supuesto, asistir a eventos de tecnología e incluso ayudar en la organización de las Calzada Code Talks en su ciudad. -->
 
 ---
 
 ## Patrocinadores
 
-[![https://salesloft.com](/images/patrocinadores/salesloft.png)](https://salesloft.com)
+[![https://nuvocargo.com](/images/patrocinadores/nuvocargo.png)](https://nuvocargo.com)
 
 [![https://michelada.io](/images/patrocinadores/michelada.png)](https://michelada.io)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
-Muchas gracias a [Salesloft](https://salesloft.com) por ser la empresa anfitriona de esta edición
+Muchas gracias a [nuvocargo](https://nuvocargo.com) por ser la empresa anfitriona de esta edición
 
 También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming y a [michelada.io](https://michelada.io) por
 el apoyo en la logística del evento
