@@ -1,6 +1,6 @@
 <footer>
   <section class="contact">
-    Contáctanos en <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a>
+    {% t footer.contact %} <a href="mailto:{{ metadata.email }}">{{ metadata.email }}</a>
   </section>
   <section class="social">
 
@@ -21,6 +21,6 @@
     </a>
   </section>
   <section>
-    <p class="disclaimer">Copyright © 2022 Comunidad Ruby MX - Todos los derechos reservados.</p>
+    <p class="disclaimer">Copyright © 2022 Comunidad Ruby MX - {% t footer.copyright %}</p>
   </section>
 </footer>

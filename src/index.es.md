@@ -12,4 +12,4 @@ Guadalajara, Jalisco
 
 Todos los detalles en la sección de [eventos](/eventos)
 
-<div id="countdown"></div>
+<div id="countdown" class="countdown"></div>

@@ -1,0 +1,19 @@
+en:
+  navbar:
+    home: Home
+    events: Events
+    cfp: Call for Papers
+    code_of_conduct: Code of Conduct
+    sponsors: Sponsors
+    contact: Contact
+  urls:
+    home: /en/home
+    events: /en/events
+    cfp: /en/cfp
+    code_of_conduct: /en/code_of_conduct
+    sponsors: /en/sponsors
+    contact: /en/contact
+  footer:
+    contact: Contact us at
+    copyright: All rights reserved
+

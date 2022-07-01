@@ -1,0 +1,11 @@
+---
+layout: home
+---
+
+# Sponsors
+
+## Want to sponsor on of our events?
+
+First of all, thank you so much for being interested in supporting our community!
+
+You can download the sponsor prospectus [here](/docs/patrocinio_rubymx.pdf)

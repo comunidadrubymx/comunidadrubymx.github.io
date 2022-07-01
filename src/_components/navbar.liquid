@@ -1,10 +1,16 @@
 <nav class="topnav" id="myTopnav">
-  <a href="/">Inicio</a>
-  <a href="/eventos">Eventos</a>
-  <a href="/cfp">Quiero dar una charla</a>
-  <a href="/codigo_de_conducta">C&oacute;digo de Conducta</a>
-  <a href="/patrocinadores">Patrocinadores</a>
-  <a href="/contacto">Contacto</a>
+  <a href="{% t urls.home %}">{% t navbar.home %}</a>
+  <a href="{% t urls.events %}">{% t navbar.events %}</a>
+  <a href="{% t urls.cfp %}">{% t navbar.cfp %}</a>
+  <a href="{% t urls.code_of_conduct %}">{% t navbar.code_of_conduct %}</a>
+  <a href="{% t urls.sponsors %}">{% t navbar.sponsors %}</a>
+  <a href="{% t urls.contact %}">{% t navbar.contact %}</a>
+
+
+  <a class="navbar__lang" href="/en/home">English</a>
+  <a class="navbar__lang" href="/">Español</a>
+
+
   <a href="javascript:void(0);" class="icon" onclick="window.toggleMenu()">
     <i class="fa fa-bars"></i>
   </a>

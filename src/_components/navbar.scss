@@ -20,6 +20,11 @@
     &:visited {
       color: $secondary-text-color;
     }
+
+
+    &.navbar__lang {
+      float: right;
+    }
   }
 
   .active {
