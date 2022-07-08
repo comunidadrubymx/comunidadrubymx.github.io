@@ -23,21 +23,19 @@ Detalles del streaming el día del evento en nuestras redes sociales
 ## Agenda
 
 
-7:00 Bienvenida
+6:00 Bienvenida
 
-7:30 Ru[by \| st] El vínculo entre Ruby y Rust - Yuliana Reyna
+6:30 Ru[by \| st] El vínculo entre Ruby y Rust - Yuliana Reyna
 
-8:00 Mensaje de nuestro patrocinador (nuvocargo)
+7:00 Mensaje de nuestro patrocinador (nuvocargo)
 
-8:10 Break
+7:10 Break
 
-8:20 Segunda charla
+7:20 Segunda charla
 
-8:50 Avisos generales
+7:50 Avisos generales
 
-9:00 Networking
-
-9:30 Fin del evento
+8:00 Fin del evento
 
 ---
 

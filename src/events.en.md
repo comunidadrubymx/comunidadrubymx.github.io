@@ -23,21 +23,19 @@ Live streaming details the day of the event in our social networks
 ## Agenda
 
 
-7:00 Welcome
+6:00 Welcome
 
-7:30 Ru[by \| st] the link between Ruby y Rust - Yuliana Reyna
+6:30 Ru[by \| st] the link between Ruby y Rust - Yuliana Reyna
 
-8:00 Sponsor message (nuvocargo)
+7:00 Sponsor message (nuvocargo)
 
-8:10 Break
+7:10 Break
 
-8:20 Second talk
+7:20 Second talk
 
-8:50 General announcements
+7:50 General announcements
 
-9:00 Networking
-
-9:30 End of event
+8:00 End of event
 
 ---
 
