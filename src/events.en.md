@@ -10,11 +10,11 @@ layout: home
 
 ![](/images/eventos/julio_2022.png)
 
-July 20th 2022
+July 20th 2022 - BBVA Open Space Guadalajara
 
-<!-- Dirección: [Av. de las Américas 1254 - Piso 16, Country Club, 44610 Guadalajara, Jal.](https://g.page/wework-av-de-las-americas-1254) -->
+Address: [P.º de Los Virreyes 45, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/x4ntc8NY8e8LLbDq9)
 
-<!-- Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-junio-2022-tickets-355647480187) -->
+Free admission. Registration [here](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-julio-2022-tickets-381427739637)
 
 Live streaming details the day of the event in our social networks
 
@@ -25,7 +25,7 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 First talk
+7:30 Ru[by \| st] the link between Ruby y Rust - Yuliana Reyna
 
 8:00 Sponsor message (nuvocargo)
 
@@ -41,7 +41,11 @@ Live streaming details the day of the event in our social networks
 
 ---
 
-<!-- ## Sobre nuestros ponentes -->
+## About our speakers
+
+Yuliana Reyna
+
+Software Developer, Open Source enthusiast, she likes to talk aboud diversity and inclusion, forever a learner, traveler, and ramen and taco lover.
 
 ---
 

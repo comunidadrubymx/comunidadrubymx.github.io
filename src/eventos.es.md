@@ -10,11 +10,11 @@ layout: home
 
 ![](/images/eventos/julio_2022.png)
 
-20 de Julio del 2022
+20 de Julio del 2022 - BBVA Open Space Guadalajara
 
-<!-- Dirección: [Av. de las Américas 1254 - Piso 16, Country Club, 44610 Guadalajara, Jal.](https://g.page/wework-av-de-las-americas-1254) -->
+Dirección: [P.º de Los Virreyes 45, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/x4ntc8NY8e8LLbDq9)
 
-<!-- Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-junio-2022-tickets-355647480187) -->
+Entrada libre. Registro [aquí](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-julio-2022-tickets-381427739637)
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
@@ -25,7 +25,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:00 Bienvenida
 
-7:30 Primera charla
+7:30 Ru[by \| st] El vínculo entre Ruby y Rust - Yuliana Reyna
 
 8:00 Mensaje de nuestro patrocinador (nuvocargo)
 
@@ -41,15 +41,11 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ---
 
-<!-- ## Sobre nuestros ponentes -->
+## Sobre nuestros ponentes
 
-<!-- Bryan Guerrero -->
+Yuliana Reyna
 
-<!-- 25 años. Desarrollador Ruby de tiempo completo y ex-pythoner. Biker aficionado. Disfruta la naturaleza y practicar deporte, en especial taekwondo, y la cerveza oscura. -->
-
-<!-- Eduardo García -->
-
-<!-- Eduardo es software engineer en Salesloft, remoteando desde la ciudad de León(dres), Guanajuato. Además de golpear el teclado gran parte del día, gusta por ir al cine, pasear a su perro, armar carnitas asadas con amistades y familia y por supuesto, asistir a eventos de tecnología e incluso ayudar en la organización de las Calzada Code Talks en su ciudad. -->
+Software Developer, entusiasta del Open Source, me gusta hablar sobre Diversidad e Inclusión, por siempre aprendiz, viajera, y amante del Ramen y los tacos.
 
 ---
 
