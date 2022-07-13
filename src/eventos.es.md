@@ -31,7 +31,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:10 Break
 
-7:20 Segunda charla
+7:20 Low Code Tools / Lowest Effort API para superar una migración inminente - Ángel Malavar
 
 7:50 Avisos generales
 
@@ -44,6 +44,10 @@ Detalles del streaming el día del evento en nuestras redes sociales
 Yuliana Reyna
 
 Software Developer, entusiasta del Open Source, me gusta hablar sobre Diversidad e Inclusión, por siempre aprendiz, viajera, y amante del Ramen y los tacos.
+
+Ángel Malavar
+
+Ingeniero en Informática, egresado de la Universidad Politécnica del Estado de Morelos. Ha trabajado como Generalist Engineer con diferentes roles, involucrándose en varios aspectos del ciclo de desarrollo de producto y software en sí con Javascript como lenguaje de programación principal, entusiasta de Micro-Services y de la cultura de DevOps. Actualmente en Nuvocargo como tech lead del equipo de Shippers, donde comenzó a desarrollar profesionalmente con RoR, y disfruta de los retos de la digitalización de logística, ademas de apoyar al equipo para lograr tanto el crecimiento de Nuvocargo como el de todos profesionalmente.
 
 ---
 
