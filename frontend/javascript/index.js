@@ -6,8 +6,8 @@ componentsContext.keys().forEach(componentsContext)
 
 simplyCountdown('#countdown', {
   year: 2022,
-  month: 7,
-  day: 20,
+  month: 8,
+  day: 24,
   hours: 19,
   minutes: 0,
   seconds: 0,
@@ -32,8 +32,8 @@ simplyCountdown('#countdown', {
 
 simplyCountdown('#countdown-en', {
   year: 2022,
-  month: 7,
-  day: 20,
+  month: 8,
+  day: 24,
   hours: 19,
   minutes: 0,
   seconds: 0,

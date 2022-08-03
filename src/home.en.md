@@ -6,7 +6,7 @@ layout: home
 
 Guadalajara, Jalisco
 
-July 20th 2022
+August 24th 2022
 
 All details in the [events](/en/eventos) section
 

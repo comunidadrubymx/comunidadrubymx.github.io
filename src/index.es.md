@@ -6,7 +6,7 @@ layout: home
 
 Guadalajara, Jalisco
 
-20 de Julio del 2022
+24 de Agosto del 2022
 
 <!-- WeWork Américas -->
 
