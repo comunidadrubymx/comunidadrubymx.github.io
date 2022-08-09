@@ -23,7 +23,7 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 First talk
+7:30 Updating Rails without dying while trying - Guillermo Moreno
 
 8:00 Sponsor message (Brightcove)
 
@@ -35,13 +35,13 @@ Live streaming details the day of the event in our social networks
 
 8:00 End of event - Networking
 
-<!-- --- -->
+---
 
-<!-- ## About our speakers -->
+## About our speakers
 
-<!-- Yuliana Reyna -->
+Guillermo Moreno
 
-<!-- Software Developer, Open Source enthusiast, she likes to talk aboud diversity and inclusion, forever a learner, traveler, and ramen and taco lover. -->
+He is 31 years old and works for michelada.io as a Software Engineer. He really likes working with Rails and its children such as StimulusJS, Turbo and among other tools to achieve quality and optimal results.
 
 <!-- Ángel Malavar -->
 

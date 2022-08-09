@@ -23,7 +23,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:00 Bienvenida
 
-7:30 Primera charla
+7:30 Actualizando Rails y no morir en el intento - Guillermo Moreno
 
 8:00 Mensaje de nuestro patrocinador (Brightcove)
 
@@ -35,13 +35,13 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 9:00 Fin del evento - Networking
 
-<!-- --- -->
+---
 
-<!-- ## Sobre nuestros ponentes -->
+## Sobre nuestros ponentes
 
-<!-- Yuliana Reyna -->
+Guillermo Moreno
 
-<!-- Software Developer, entusiasta del Open Source, me gusta hablar sobre Diversidad e Inclusión, por siempre aprendiz, viajera, y amante del Ramen y los tacos. -->
+Tiene 31 años y trabaja para michelada.io como Ingeniero en Software. Le gusta mucho trabajar con Rails y sus hijos como StimulusJS, Turbo y entre otras herramientas para lograr resultados de calidad y óptimos.
 
 <!-- Ángel Malavar -->
 
