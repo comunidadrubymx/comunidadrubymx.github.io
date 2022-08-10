@@ -4,7 +4,7 @@ layout: home
 
 # Sponsors
 
-## Want to sponsor on of our events?
+## Want to sponsor one of our events?
 
 First of all, thank you so much for being interested in supporting our community!
 
