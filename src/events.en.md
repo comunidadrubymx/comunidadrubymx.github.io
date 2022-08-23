@@ -8,7 +8,7 @@ layout: home
 
 ## Upcoming event
 
-![](/images/eventos/agosto/patrocinador.png)
+![](/images/eventos/agosto/flyer_final.png)
 
 August 24th 2022 - Brightcove Guadalajara
 
@@ -29,7 +29,7 @@ Live streaming details the day of the event in our social networks
 
 8:10 Break
 
-8:20 Second talk
+8:20 Metaprogramming, the superpower you shouldn't use
 
 8:50 General announcements
 
@@ -43,9 +43,9 @@ Guillermo Moreno
 
 He is 31 years old and works for michelada.io as a Software Engineer. He really likes working with Rails and its children such as StimulusJS, Turbo and among other tools to achieve quality and optimal results.
 
-<!-- Ángel Malavar -->
+Brian Martinez
 
-<!-- Computer Engineer, graduated from the Polytechnic University of the State of Morelos. He has worked as a Generalist Engineer with different roles, getting involved in various aspects of the product and software development cycle itself with Javascript as the main programming language, enthusiast of Micro-Services and DevOps culture. Currently at Nuvocargo as a tech lead for the Shippers team, where he began to develop professionally with RoR, and enjoys the challenges of logistics digitization, in addition to supporting the team to achieve both Nuvocargo's growth and everyone professionally. -->
+Staff Software Engineer at Brightcove in the Zencoder (transcoding) team with daily work on web technologies using all kinds of tools, highlighting Ruby on Rails and Elixir. 10 years in the software development industry going through various technologies and languages and exploring the entire stack, frontend, backend, ops, dba and whatnot.
 
 ---
 

@@ -8,7 +8,7 @@ layout: home
 
 ## Próximo evento
 
-![](/images/eventos/agosto/patrocinador.png)
+![](/images/eventos/agosto/flyer_final.png)
 
 24 de Agosto del 2022 - Brightcove Guadalajara
 
@@ -29,7 +29,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 8:10 Break
 
-8:20 Segunda charla
+8:20 Metaprogramming, el superpoder que no deberías usar - Brian Martinez
 
 8:50 Avisos generales
 
@@ -43,9 +43,9 @@ Guillermo Moreno
 
 Tiene 31 años y trabaja para michelada.io como Ingeniero en Software. Le gusta mucho trabajar con Rails y sus hijos como StimulusJS, Turbo y entre otras herramientas para lograr resultados de calidad y óptimos.
 
-<!-- Ángel Malavar -->
+Brian Martinez
 
-<!-- Ingeniero en Informática, egresado de la Universidad Politécnica del Estado de Morelos. Ha trabajado como Generalist Engineer con diferentes roles, involucrándose en varios aspectos del ciclo de desarrollo de producto y software en sí con Javascript como lenguaje de programación principal, entusiasta de Micro-Services y de la cultura de DevOps. Actualmente en Nuvocargo como tech lead del equipo de Shippers, donde comenzó a desarrollar profesionalmente con RoR, y disfruta de los retos de la digitalización de logística, ademas de apoyar al equipo para lograr tanto el crecimiento de Nuvocargo como el de todos profesionalmente. -->
+Staff Software Engineer en Brightcove en el equipo de Zencoder (transcoding) con trabajo diario en tecnologías web usando todo tipo de herramientas destacando Ruby on Rails y Elixir. 10 años en la industria del desarrollo de software pasando por varias tecnologías y lenguajes y explorando por todo el stack, frontend, backend, ops, dba y lo que se acumule.
 
 ---
 
