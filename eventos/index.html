@@ -11,7 +11,35 @@
 <link rel="stylesheet" href="/_bridgetown/static/css/main.8b07a7920105ed1bd465.css" />
 <script src="https://unpkg.com/simplycountdown.js@1.7.0/dist/simplyCountdown.min.js" defer></script>
 <script src="/_bridgetown/static/js/main.013f90ccd699ffc4f10c.js" defer></script>
+<script type="module">let lastmod = 0
+function startReloadConnection() {
+  const evtSource = new EventSource("/_bridgetown/live_reload")
+  evtSource.onmessage = event => {
+    if (event.data == "reloaded!") {
+      location.reload()
+    } else {
+      const newmod = Number(event.data)
+      if (lastmod > 0 && newmod > 0 && lastmod < newmod) {
+        location.reload()
+      } else {
+        lastmod = newmod
+      }
+    }
+  }
+  evtSource.onerror = event => {
+    if (evtSource.readyState === 2) {
+      // reconnect with new object
+      evtSource.close()
+      console.warn("Live reload: attempting to reconnect in 3 seconds...")
 
+      setTimeout(() => startReloadConnection(), 3000)
+    }
+  }
+}
+setTimeout(() => {
+  startReloadConnection()
+}, 500)
+</script>
 
   </head>
   <body class="home ">
@@ -41,7 +69,7 @@
 
 <h2 id="próximo-evento">Próximo evento</h2>
 
-<p><img src="/images/eventos/agosto/patrocinador.png" alt="" /></p>
+<p><img src="/images/eventos/agosto/flyer_final.png" alt="" /></p>
 
 <p>24 de Agosto del 2022 - Brightcove Guadalajara</p>
 
@@ -61,7 +89,7 @@
 
 <p>8:10 Break</p>
 
-<p>8:20 Segunda charla</p>
+<p>8:20 Metaprogramming, el superpoder que no deberías usar - Brian Martinez</p>
 
 <p>8:50 Avisos generales</p>
 
@@ -75,9 +103,9 @@
 
 <p>Tiene 31 años y trabaja para michelada.io como Ingeniero en Software. Le gusta mucho trabajar con Rails y sus hijos como StimulusJS, Turbo y entre otras herramientas para lograr resultados de calidad y óptimos.</p>
 
-<!-- Ángel Malavar -->
+<p>Brian Martinez</p>
 
-<!-- Ingeniero en Informática, egresado de la Universidad Politécnica del Estado de Morelos. Ha trabajado como Generalist Engineer con diferentes roles, involucrándose en varios aspectos del ciclo de desarrollo de producto y software en sí con Javascript como lenguaje de programación principal, entusiasta de Micro-Services y de la cultura de DevOps. Actualmente en Nuvocargo como tech lead del equipo de Shippers, donde comenzó a desarrollar profesionalmente con RoR, y disfruta de los retos de la digitalización de logística, ademas de apoyar al equipo para lograr tanto el crecimiento de Nuvocargo como el de todos profesionalmente. -->
+<p>Staff Software Engineer en Brightcove en el equipo de Zencoder (transcoding) con trabajo diario en tecnologías web usando todo tipo de herramientas destacando Ruby on Rails y Elixir. 10 años en la industria del desarrollo de software pasando por varias tecnologías y lenguajes y explorando por todo el stack, frontend, backend, ops, dba y lo que se acumule.</p>
 
 <hr />
 
