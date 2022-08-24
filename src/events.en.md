@@ -33,7 +33,7 @@ Live streaming details the day of the event in our social networks
 
 8:50 General announcements
 
-8:00 End of event - Networking
+9:00 End of event - Networking
 
 ---
 
