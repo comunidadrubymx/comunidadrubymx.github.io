@@ -4,11 +4,9 @@ layout: home
 
 ![](/images/full-light-color.png)
 
-Guadalajara, Jalisco
+Monterrey, Nuevo León
 
-24 de Agosto del 2022
-
-<!-- WeWork Américas -->
+21 de Septiembre del 2022
 
 Todos los detalles en la sección de [eventos](/eventos)
 

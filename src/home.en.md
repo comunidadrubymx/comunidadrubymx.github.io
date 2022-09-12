@@ -4,9 +4,9 @@ layout: home
 
 ![](/images/full-light-color.png)
 
-Guadalajara, Jalisco
+Monterrey, Nuevo Leon
 
-August 24th 2022
+September 21st 2022
 
 All details in the [events](/en/events) section
 
