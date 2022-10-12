@@ -8,11 +8,12 @@ layout: home
 
 ## Upcoming event
 
-![](/images/eventos/septiembre_2022/primer_speaker.png)
+![](/images/eventos/octubre_2022/primer_anuncio.png)
 
-September 21st 2022 - Tech Mahindra Monterrey
 
-Address: [Blvrd. Díaz Ordaz 127 - Torre 3 Piso 19](https://goo.gl/maps/cE4SXXXHgKtJUAs1A)
+October 26th 2022 - Luxoft Guadalajara
+
+Address: [Distrito La Perla, Amado Nervo 2200 Edificio Bio II Piso 1](https://goo.gl/maps/ksk3rEv7Z3vMkJoV9)
 
 Live streaming details the day of the event in our social networks
 
@@ -23,9 +24,9 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 temporal.io 101 - Némesis Osorio
+7:30 First talk
 
-8:00 Sponsor message (Tech Mahindra)
+8:00 Sponsor message (Luxoft)
 
 8:10 Break
 
@@ -35,7 +36,6 @@ Live streaming details the day of the event in our social networks
 
 9:00 End of event - Networking
 
----
 
 <!-- ## About our speakers -->
 
@@ -51,13 +51,13 @@ Live streaming details the day of the event in our social networks
 
 ## Sponsors
 
-[![https://techmahindra.com/en-in/business-process-services/locator/latam-bps](/images/patrocinadores/tech_mahindra.png)](https://techmahindra.com/en-in/business-process-services/locator/latam-bps)
+[![https://www.luxoft.com](/images/patrocinadores/luxoft.png)](https://www.luxoft.com)
 
 [![https://michelada.io](/images/patrocinadores/michelada.png)](https://michelada.io)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
-Thank you so much to [Tech Mahindra](https://techmahindra.com/en-in/business-process-services/locator/latam-bps) for being the host company of the month
+Thank you so much to [Luxoft](https://www.luxoft.com) for being the host company of the month
 
 Also thanks to [Software Gurú](https://sg.com.mx/) for the streaming and [michelada.io](https://michelada.io) for
 the support in the logistics of the event

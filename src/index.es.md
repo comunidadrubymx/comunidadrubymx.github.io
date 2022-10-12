@@ -4,9 +4,9 @@ layout: home
 
 ![](/images/full-light-color.png)
 
-Monterrey, Nuevo León
+Luxoft Guadalajara
 
-21 de Septiembre del 2022
+26 de Octubre del 2022
 
 Todos los detalles en la sección de [eventos](/eventos)
 
