@@ -8,7 +8,7 @@ layout: home
 
 ## Upcoming event
 
-![](/images/eventos/octubre_2022/primer_anuncio.png)
+![](/images/eventos/octubre_2022/final_announcement.png)
 
 
 October 26th 2022 - Luxoft Guadalajara
@@ -24,28 +24,29 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 First talk
+7:30 The past, present and future of Ruby - Fernando Perales
 
 8:00 Sponsor message (Luxoft)
 
 8:10 Break
 
-8:20 Second talk
+8:20 Product Design - Norma Medrano
 
 8:50 General announcements
 
 9:00 End of event - Networking
 
 
-<!-- ## About our speakers -->
+## About our speakers
 
-<!-- Guillermo Moreno -->
+Fernando Perales
 
-<!-- He is 31 years old and works for michelada.io as a Software Engineer. He really likes working with Rails and its children such as StimulusJS, Turbo and among other tools to achieve quality and optimal results. -->
+Fernando is a Senior Software Developer at thoughtbot, where he writes web applications on his favorite language: Ruby.
+Fer is actively involved in the local communities and is currently running RubyMX community as well as member and co-organizer of the RailsBridge Mexican chapter.
 
-<!-- Brian Martinez -->
+Norma Medrano
 
-<!-- Staff Software Engineer at Brightcove in the Zencoder (transcoding) team with daily work on web technologies using all kinds of tools, highlighting Ruby on Rails and Elixir. 10 years in the software development industry going through various technologies and languages and exploring the entire stack, frontend, backend, ops, dba and whatnot. -->
+Certified Business Analyst and Product Owner specialized in the implementation of solutions within the IT Industry. She contributes to the strategic direction by improving processes, products, services, and solutions through business analysis and data management. She also guides agile teams during the interactions to create value to her customers. Norma is a Product Owner at Luxoft
 
 ---
 
