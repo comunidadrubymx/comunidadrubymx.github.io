@@ -4,11 +4,18 @@ layout: home
 
 ![](/images/full-light-color.png)
 
-Luxoft Guadalajara
+{% if site.upcoming_event %}
 
-October 26th, 2022
+BBVA Open Spaces
+
+January 25th, 2023
 
 All details in the [events](/en/events) section
 
 <div id="countdown-en" class="countdown"></div>
 
+{% else %}
+
+We are working on all the details for our upcoming event
+
+{% endif %}

@@ -4,12 +4,20 @@ import "index.scss"
 const componentsContext = require.context("bridgetownComponents", true, /.js$/)
 componentsContext.keys().forEach(componentsContext)
 
+const upcomingEvent = {
+  year: 2023,
+  month: 1,
+  day: 25,
+  hours: 17,
+  minutes: 30
+}
+
 simplyCountdown('#countdown', {
-  year: 2022,
-  month: 10,
-  day: 26,
-  hours: 19,
-  minutes: 0,
+  year: upcomingEvent.year,
+  month: upcomingEvent.month,
+  day: upcomingEvent.day,
+  hours: upcomingEvent.hours,
+  minutes: upcomingEvent.minutes,
   seconds: 0,
   words: {
     days: { singular: ' dia', plural: ' dias' },
@@ -31,11 +39,11 @@ simplyCountdown('#countdown', {
 });
 
 simplyCountdown('#countdown-en', {
-  year: 2022,
-  month: 10,
-  day: 26,
-  hours: 19,
-  minutes: 0,
+  year: upcomingEvent.year,
+  month: upcomingEvent.month,
+  day: upcomingEvent.day,
+  hours: upcomingEvent.hours,
+  minutes: upcomingEvent.minutes,
   seconds: 0,
   words: {
     days: { singular: ' day', plural: ' days' },
