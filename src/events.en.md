@@ -12,7 +12,7 @@ layout: home
 
 Our first event of the year and it will be in collaboration with GDLJS and Rust Guadalajara communities
 
-![](/images/eventos/enero_2023/segundo_anuncio.png)
+![](/images/eventos/enero_2023/tercer_anuncio.png)
 
 January 25th 2023 - BBVA Open Space Guadalajara
 
@@ -31,7 +31,7 @@ Live streaming details the day of the event in our social networks
 
 6:00 How to not learn Rust: a practical guide for beginners and enthusiasts - Miguel Raz Guzmán
 
-6:30 Second talk
+6:30 The metaverse speaks Javascript: a brief and quick introduction to 3D web development - Joaquín Benitez
 
 7:00 Sponsor message (Gorilla Logic)
 
