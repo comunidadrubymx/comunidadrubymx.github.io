@@ -12,7 +12,7 @@ layout: home
 
 Our first event of the year and it will be in collaboration with GDLJS and Rust Guadalajara communities
 
-![](/images/eventos/enero_2023/tercer_anuncio.png)
+![](/images/eventos/enero_2023/cuarto_anuncio.png)
 
 January 25th 2023 - BBVA Open Space Guadalajara
 
@@ -35,7 +35,7 @@ Live streaming details the day of the event in our social networks
 
 7:00 Sponsor message (Gorilla Logic)
 
-7:10 Closing talk
+7:10 Closing the gap between academy and IT industry - Salvador Hernández
 
 7:30 End of event - Networking
 
