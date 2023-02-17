@@ -32,7 +32,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:50 Mensaje de nuestro patrocinador (Apptegy)
 
-8:00 Chala de cierre
+8:00 Charla de cierre
 
 8:30 Fin del evento - Networking
 
