@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-BBVA Open Spaces
+WeWork Américas
 
-January 25th, 2023
+March 29th, 2023
 
 All details in the [events](/en/events) section
 

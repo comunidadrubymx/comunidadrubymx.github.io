@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Nuestro primer evento del año y qué mejor que hacerlo en colaboración con las comunidadesde GDLJS y la naciente comunidad de Rust
+Nuestro evento de aniversario. No te lo puedes perder
 
-![](/images/eventos/enero_2023/cuarto_anuncio.png)
+![](/images/eventos/marzo_2023/primer_anuncio.png)
 
-25 de enero del 2023 - BBVA Open Space Guadalajara
+29 de marzo del 2023 - WeWork Américas
 
-Dirección: [P.º de Los Virreyes 45, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/x4ntc8NY8e8LLbDq9)
+Dirección: [Av. de las Américas 1254 Piso 16](https://goo.gl/maps/MenMfLYdK8sEoZZr5)
 
-Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-enero-2023-tickets-496420496067)
+Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-marzo-2023-tickets-554726149847)
 
 Detalles del streaming el día del evento en nuestras redes sociales
 
@@ -26,31 +26,25 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ## Agenda
 
-5:30 Bienvenida
+7:00 Bienvenida
 
-6:00 Cómo no aprender Rust: una guía práctica para primerizos y entusiastas - Miguel Raz Guzmán
+7:30 Primera charla
 
-6:30 El Metaverso habla Javascript: Una breve y rápida introducción al desarrollo web en 3D - Joaquín Benitez
+7:50 Mensaje de nuestro patrocinador (Apptegy)
 
-7:00 Mensaje de nuestro patrocinador (Gorilla Logic)
+8:00 Chala de cierre
 
-7:10 Cerrando la Brecha entre la academia y la Industria TI - Salvador Hernández
-
-7:30 Fin del evento - Networking
+8:30 Fin del evento - Networking
 
 ---
 
 ## Patrocinadores
 
-[![https://www.gorillalogic.com](/images/patrocinadores/gorilla_logic.png)](https://www.gorillalogic.com)
-
-[![https://openinnovation.bbva.com/es/open-space/](/images/patrocinadores/bbva_open_space.png)](https://openinnovation.bbva.com/es/open-space/)
+[![https://www.apptegy.com](/images/patrocinadores/apptegy.png)](https://www.apptegy.com)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
-Muchas gracias a [Gorilla Logic](https://www.gorillalogic.com) por ser la empresa anfitriona de esta edición y a [BBVA Open Space Guadalajara](https://openinnovation.bbva.com/es/open-space) por prestarnos sus instalaciones para el evento.
-
-Muchas gracias a [GDLJS](https://www.gdljs.com/) y a la comunidad de Rust Guadalajara por su colaboración.
+Muchas gracias a [Apptegy](https://www.apptegy.com) por ser la empresa anfitriona de esta edición.
 
 También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming.
 

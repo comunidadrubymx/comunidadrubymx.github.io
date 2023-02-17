@@ -6,10 +6,11 @@ componentsContext.keys().forEach(componentsContext)
 
 const upcomingEvent = {
   year: 2023,
-  month: 1,
+  month: 3,
   day: 25,
-  hours: 17,
-  minutes: 30
+  hours: 19,
+  minutes: 0,
+  seconds: 0
 }
 
 simplyCountdown('#countdown', {
@@ -18,7 +19,7 @@ simplyCountdown('#countdown', {
   day: upcomingEvent.day,
   hours: upcomingEvent.hours,
   minutes: upcomingEvent.minutes,
-  seconds: 0,
+  seconds: upcomingEvent.seconds,
   words: {
     days: { singular: ' dia', plural: ' dias' },
     hours: { singular: ' hora', plural: ' horas' },
@@ -44,7 +45,7 @@ simplyCountdown('#countdown-en', {
   day: upcomingEvent.day,
   hours: upcomingEvent.hours,
   minutes: upcomingEvent.minutes,
-  seconds: 0,
+  seconds: upcomingEvent.seconds,
   words: {
     days: { singular: ' day', plural: ' days' },
     hours: { singular: ' hour', plural: ' hours' },

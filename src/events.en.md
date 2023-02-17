@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Our first event of the year and it will be in collaboration with GDLJS and Rust Guadalajara communities
+Out anniversary event. You can't miss it
 
-![](/images/eventos/enero_2023/cuarto_anuncio.png)
+![](/images/eventos/marzo_2023/primer_anuncio.png)
 
-January 25th 2023 - BBVA Open Space Guadalajara
+March 29th 2023 - WeWork Américas
 
-Address: [P.º de Los Virreyes 45, Puerta de Hierro, 45116 Zapopan, Jal.](https://goo.gl/maps/x4ntc8NY8e8LLbDq9)
+Address: [Av. de las Américas 1254 Piso 16](https://goo.gl/maps/MenMfLYdK8sEoZZr5)
 
-Free event. Tickets available in [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-enero-2023-tickets-496420496067)
+Free event. Tickets available in [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-marzo-2023-tickets-554726149847)
 
 Live streaming details the day of the event in our social networks
 
@@ -27,15 +27,13 @@ Live streaming details the day of the event in our social networks
 ## Agenda
 
 
-5:30 Welcome
+7:00 Welcome
 
-6:00 How to not learn Rust: a practical guide for beginners and enthusiasts - Miguel Raz Guzmán
+7:30 First talk
 
-6:30 The metaverse speaks Javascript: a brief and quick introduction to 3D web development - Joaquín Benitez
+7:50 Sponsor message (Gorilla Logic)
 
-7:00 Sponsor message (Gorilla Logic)
-
-7:10 Closing the gap between academy and IT industry - Salvador Hernández
+7:10 Closing talk
 
 7:30 End of event - Networking
 
@@ -43,15 +41,11 @@ Live streaming details the day of the event in our social networks
 
 ## Sponsors
 
-[![https://www.gorillalogic.com](/images/patrocinadores/gorilla_logic.png)](https://www.gorillalogic.com)
-
-[![https://openinnovation.bbva.com/es/open-space/](/images/patrocinadores/bbva_open_space.png)](https://openinnovation.bbva.com/es/open-space/)
+[![https://www.apptegy.com](/images/patrocinadores/apptegy.png)](https://www.apptegy.com)
 
 [![https://sg.com.mx](/images/patrocinadores/sg.png)](https://sg.com.mx)
 
-Thanks to [Gorilla Logic](https://www.gorillalogic.com) for being the host company of the month and [BBVA Open Space Guadalajara](https://openinnovation.bbva.com/es/open-space) for allowing us to use their facilities.
-
-Thanks to [GDLJS](https://www.gdljs.com/) and Rust Guadalajara communities for their collaboration.
+Thanks to [Apptegy](https://www.apptegy.com) for being the host company of the month.
 
 Also thanks to [Software Gurú](https://sg.com.mx/) for the streaming
 
