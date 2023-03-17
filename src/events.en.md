@@ -29,7 +29,7 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 First talk
+7:30 Surviving 3rd-party integrations
 
 7:50 Sponsor message (Gorilla Logic)
 

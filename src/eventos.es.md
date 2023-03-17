@@ -40,8 +40,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ## Sobre nuestros ponentes
 
-Juan C. Ruiz es un ingeniero de software, líder de comunidad y mentor que gusta de compartir el conocimiento y el trabajo en equipo. Actualmente forma parte de X-Team una comunidad que conecta Senior Developers con empresas del extranjero que buscan talento remoto. Desde 2013 ha participado en diferentes comunidades tecnológicas y programas de mentoría como RubyMe, buscando ayudar a otros a acelerar sus carreras en ingeniería de software. Actualmente participa cómo Co organizador de un meetup local llamado Calzada Code donde se comparten temas de desarrollo de software.
-
+Juan C. Ruiz is a software engineer, community leader and mentor who likes sharing knowledge and teamwork. He is currently part of X-Team, a community that connects Senior Developers with companies abroad that are looking for remote talent. Since 2013 he has participated in different technology communities and mentoring programs such as RubyMe, seeking to help others accelerate their careers in software engineering. He currently participates as Co-organizer of a local meetup called Calzada Code where software development issues are shared.
 
 ## Patrocinadores
 
