@@ -29,11 +29,11 @@ Live streaming details the day of the event in our social networks
 
 7:00 Welcome
 
-7:30 Surviving 3rd-party integrations
+7:30 Surviving 3rd-party integrations - Juan C. Ruiz
 
-7:50 Sponsor message (Gorilla Logic)
+7:50 Sponsor message (Apptegy)
 
-7:10 Closing talk
+7:10 Dependency Inversion Principle - Juan Treviño
 
 7:30 End of event - Networking
 
