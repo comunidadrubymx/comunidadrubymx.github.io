@@ -12,7 +12,7 @@ layout: home
 
 Nuestro evento de aniversario. No te lo puedes perder
 
-![](/images/eventos/marzo_2023/segundo_anuncio.png)
+![](/images/eventos/marzo_2023/tercer_anuncio.png)
 
 29 de marzo del 2023 - WeWork Américas
 
@@ -32,7 +32,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:50 Mensaje de nuestro patrocinador (Apptegy)
 
-8:00 Charla de cierre
+8:00 Principio de Inversión de Dependencia - Javier Treviño
 
 8:30 Fin del evento - Networking
 
@@ -40,7 +40,9 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ## Sobre nuestros ponentes
 
-Juan C. Ruiz is a software engineer, community leader and mentor who likes sharing knowledge and teamwork. He is currently part of X-Team, a community that connects Senior Developers with companies abroad that are looking for remote talent. Since 2013 he has participated in different technology communities and mentoring programs such as RubyMe, seeking to help others accelerate their careers in software engineering. He currently participates as Co-organizer of a local meetup called Calzada Code where software development issues are shared.
+Juan C. Ruiz es ingeniero de software, líder comunitario y mentor al que le gusta compartir conocimientos y trabajar en equipo. Actualmente forma parte de X-Team, una comunidad que conecta a Desarrolladores Senior con empresas en el extranjero que buscan talento remoto. Desde 2013 ha participado en diferentes comunidades tecnológicas y programas de mentoring como RubyMe, buscando ayudar a otros a acelerar sus carreras en ingeniería de software. Actualmente participa como Co-organizador de un encuentro local llamado Calzada Code donde se comparten temas de desarrollo de software.
+
+Javier Treviño es programador y ex consultor. Actualmente trabaja en la startup de educación Apptegy con sede en EE. UU., como vicepresidente de ingeniería. Disfruta trabajar con diferentes lenguajes y paradigmas de programación e intercambiar conocimientos con otros desarrolladores para elevar la calidad del software que construimos en México.
 
 ## Patrocinadores
 

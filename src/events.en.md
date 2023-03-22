@@ -10,9 +10,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Out anniversary event. You can't miss it
+Our anniversary event. You can't miss it
 
-![](/images/eventos/marzo_2023/primer_anuncio.png)
+![](/images/eventos/marzo_2023/tercer_anuncio.png)
 
 March 29th 2023 - WeWork Américas
 
@@ -38,6 +38,12 @@ Live streaming details the day of the event in our social networks
 7:30 End of event - Networking
 
 ---
+
+## About our speakers
+
+Juan C. Ruiz is a software engineer, community leader and mentor who likes sharing knowledge and teamwork. He is currently part of X-Team, a community that connects Senior Developers with companies abroad that are looking for remote talent. Since 2013 he has participated in different technology communities and mentoring programs such as RubyMe, seeking to help others accelerate their careers in software engineering. He currently participates as Co-organizer of a local meetup called Calzada Code where software development issues are shared.
+
+Juan Treviño is a programmer and former consultant. Currently he works at US-based education startup Apptegy, as VP of engineering. He enjoys working with different programming languages and paradigms, & exchanging knowledge with fellow developers to raise the quality of the Software we build in Mexico.
 
 ## Sponsors
 
