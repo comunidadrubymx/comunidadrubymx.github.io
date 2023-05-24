@@ -8,4 +8,4 @@ available_locales: [en, es]
 default_locale: es
 prefix_default_locale: false
 
-upcoming_event: true
+upcoming_event: false
