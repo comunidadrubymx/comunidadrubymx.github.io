@@ -9,3 +9,15 @@ default_locale: es
 prefix_default_locale: false
 
 upcoming_event: false
+
+collections:
+  eventos:
+    output: true
+    permalink: simple
+    future: true
+
+  events:
+    output: true
+    permalink: /en/:collection/:slug.*
+    future: true
+

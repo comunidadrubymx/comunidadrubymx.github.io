@@ -60,3 +60,9 @@ Also thanks to [Software Gurú](https://sg.com.mx/) for the streaming
 We are working on all the details for our upcoming event
 
 {% endif %}
+
+## Past events
+
+{% for event in collections.events.resources %}
+ <a href="{{ event.relative_url }}">{{ event.title }}</a>
+{% endfor %}

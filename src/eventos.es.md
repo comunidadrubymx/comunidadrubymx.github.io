@@ -59,3 +59,9 @@ También muchas gracias a [Software Gurú](https://sg.com.mx/) por el streaming.
 Estamos preparando los detalles para nuestro siguiente evento.
 
 {% endif %}
+
+## Eventos anteriores
+
+{% for event in collections.eventos.resources %}
+ <a href="{{ event.relative_url }}">{{ event.title }}</a>
+{% endfor %}
