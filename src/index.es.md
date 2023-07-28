@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-WeWork Américas
+Tech Mahindra Guadalajara
 
-29 de marzo del 2023
+19 de agosto del 2023
 
 Todos los detalles en la sección de [eventos](/eventos)
 
