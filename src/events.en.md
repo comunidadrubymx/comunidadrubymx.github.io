@@ -25,21 +25,23 @@ Live streaming details the day of the event in our social networks
 ## Agenda
 
 
-7:00 Welcome
+6:30 Welcome
 
-7:30 First talk
+7:00 Bryan Guerrero - The software architecture class that you did not get at school
 
-7:50 Sponsor message (Tech Mahindra)
+7:20 Sponsor message (Tech Mahindra)
 
-7:10 Closing talk
+7:30 Closing talk
 
-7:30 End of event - Networking
+8:00 End of event - Networking
 
 ---
 
-<!-- ## About our speakers -->
+## About our speakers
 
-<!-- Juan C. Ruiz is a software engineer, community leader and mentor who likes sharing knowledge and teamwork. He is currently part of X-Team, a community that connects Senior Developers with companies abroad that are looking for remote talent. Since 2013 he has participated in different technology communities and mentoring programs such as RubyMe, seeking to help others accelerate their careers in software engineering. He currently participates as Co-organizer of a local meetup called Calzada Code where software development issues are shared. -->
+*Bryan Guerrero*
+
+I currently work at michelada.io making Ruby on Rails and micheladas. I enjoy coding and drinking beer as well as sports, mainly taekwondo and motorcycling… did I mention I like beer?
 
 <!-- Juan Treviño is a programmer and former consultant. Currently he works at US-based education startup Apptegy, as VP of engineering. He enjoys working with different programming languages and paradigms, & exchanging knowledge with fellow developers to raise the quality of the Software we build in Mexico. -->
 

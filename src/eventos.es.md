@@ -24,21 +24,23 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 ## Agenda
 
-7:00 Bienvenida
+6:30 Bienvenida
 
-7:30 Primera Charla
+7:00 Bryan Guerrero - La clase de arquitectura de software que no tuviste en la escuela
 
-7:50 Mensaje de nuestro patrocinador (Tech Mahindra)
+7:20 Mensaje de nuestro patrocinador (Tech Mahindra)
 
-8:00 Charla de cierra
+7:30 Charla de cierre
 
-8:30 Fin del evento - Networking
+8:00 Fin del evento - Networking
 
 ---
 
-<!-- ## Sobre nuestros ponentes -->
+## Sobre nuestros ponentes
 
-<!-- Juan C. Ruiz es ingeniero de software, líder comunitario y mentor al que le gusta compartir conocimientos y trabajar en equipo. Actualmente forma parte de X-Team, una comunidad que conecta a Desarrolladores Senior con empresas en el extranjero que buscan talento remoto. Desde 2013 ha participado en diferentes comunidades tecnológicas y programas de mentoring como RubyMe, buscando ayudar a otros a acelerar sus carreras en ingeniería de software. Actualmente participa como Co-organizador de un encuentro local llamado Calzada Code donde se comparten temas de desarrollo de software. -->
+*Bryan Guerrero*
+
+Actualmente trabajo en michelada.io haciendo ruby on rails y micheladas. Disfruto de codear y tomar cerveza asi como del deporte, principalmente el taekwondo y el motociclismo… ¿mencioné que me gusta la cerveza?
 
 <!-- Javier Treviño es programador y ex consultor. Actualmente trabaja en la startup de educación Apptegy con sede en EE. UU., como vicepresidente de ingeniería. Disfruta trabajar con diferentes lenguajes y paradigmas de programación e intercambiar conocimientos con otros desarrolladores para elevar la calidad del software que construimos en México. -->
 
