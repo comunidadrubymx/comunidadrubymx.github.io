@@ -8,7 +8,7 @@ layout: home
 
 Tech Mahindra Guadalajara
 
-19 de agosto del 2023
+17 de agosto del 2023
 
 Todos los detalles en la sección de [eventos](/eventos)
 
