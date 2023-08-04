@@ -12,7 +12,7 @@ layout: home
 
 ![](/images/eventos/agosto_2023/primer_anuncio.png)
 
-August 19th 2023 - Tech Mahindra Guadalajara
+August 17th 2023 - Tech Mahindra Guadalajara
 
 Address: [Acueducto 4851 Piso 14 Zapopan, JAL](https://goo.gl/maps/KwWjK3w1bA9e5ToS7)
 
