@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/agosto_2023/primer_anuncio.png)
+![](/images/eventos/agosto_2023/segundo_anuncio.png)
 
 August 17th 2023 - Tech Mahindra Guadalajara
 
@@ -31,7 +31,7 @@ Live streaming details the day of the event in our social networks
 
 7:20 Sponsor message (Tech Mahindra)
 
-7:30 Closing talk
+7:30 Kevin Perez - Granana for non-devops
 
 8:00 End of event - Networking
 
@@ -43,7 +43,10 @@ Live streaming details the day of the event in our social networks
 
 I currently work at michelada.io making Ruby on Rails and micheladas. I enjoy coding and drinking beer as well as sports, mainly taekwondo and motorcycling… did I mention I like beer?
 
-<!-- Juan Treviño is a programmer and former consultant. Currently he works at US-based education startup Apptegy, as VP of engineering. He enjoys working with different programming languages and paradigms, & exchanging knowledge with fellow developers to raise the quality of the Software we build in Mexico. -->
+*Kevin Pérez*
+
+Kevin is a Senior Software Engineer and Senior Consultant at MagmaLabs where he has been working with Ruby on Rails for 6 years. He loves everything related to technology, he is a PC gaming enthusiast and he is the founder of the PlayasOnTech community in Manzanillo, Colima.
+
 
 ## Sponsors
 

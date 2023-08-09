@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/agosto_2023/primer_anuncio.png)
+![](/images/eventos/agosto_2023/segundo_anuncio.png)
 
 17 de agosto del 2023 - Tech Mahindra Guadalajara
 
@@ -30,7 +30,7 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 7:20 Mensaje de nuestro patrocinador (Tech Mahindra)
 
-7:30 Charla de cierre
+7:30 Kevin Perez - Grafana for non-devops
 
 8:00 Fin del evento - Networking
 
@@ -42,7 +42,9 @@ Detalles del streaming el día del evento en nuestras redes sociales
 
 Actualmente trabajo en michelada.io haciendo ruby on rails y micheladas. Disfruto de codear y tomar cerveza asi como del deporte, principalmente el taekwondo y el motociclismo… ¿mencioné que me gusta la cerveza?
 
-<!-- Javier Treviño es programador y ex consultor. Actualmente trabaja en la startup de educación Apptegy con sede en EE. UU., como vicepresidente de ingeniería. Disfruta trabajar con diferentes lenguajes y paradigmas de programación e intercambiar conocimientos con otros desarrolladores para elevar la calidad del software que construimos en México. -->
+*Kevin Pérez*
+
+Kevin es Senior Software Engineer y Senior Consultant en MagmaLabs donde ha trabajado con Ruby on Rails desde hace 6 años. Le encanta todo lo relacionado con tecnología, es entusiasta del PC gaming y es fundador de la comunidad PlayasOnTech en Manzanillo, Colima.
 
 ## Patrocinadores
 
