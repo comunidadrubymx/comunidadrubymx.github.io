@@ -1,4 +1,5 @@
 @import "normalize.scss";
+@import "~bootstrap/scss/bootstrap.scss";
 
 $primary-text-color: #000;
 $secondary-text-color: #FFF;
@@ -16,7 +17,6 @@ body {
 
 h1, nav, footer {
   text-align: center;
-
 }
 
 img {
@@ -26,9 +26,9 @@ img {
 main {
   margin: 4rem auto;
   min-height: 42rem;
-  padding: 1rem 3rem;
+  padding: 1rem 1rem;
   text-align: center;
-  width: 80%;
+  width: 90%;
 
   h1 {
     font-size: 3rem;
@@ -46,7 +46,6 @@ main {
 
   a {
     color: $primary-text-color;
-    word-break: break-all;
 
     &:hover {
       text-decoration: underline;
