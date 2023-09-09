@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/septiembre_2023/primer_anuncio.png)
+![](/images/eventos/septiembre_2023/segundo_anuncio.png)
 
 21 de septiembre del 2023 - Apex Systems Guadalajara
 
@@ -26,25 +26,25 @@ Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/@comun
 
 7:00 Bienvenida
 
-7:30 Primera charla
+7:30 David Sanchez - CableReady: la varita mágica del tiempo real
 
 7:50 Mensaje de nuestro patrocinador (Apex Systems)
 
-8:00 Charla de cierre
+8:00 Juan Perez-Tejeda - IA generativa con Ruby
 
 8:30 Fin del evento - Networking
 
 ---
 
-<!-- ## Sobre nuestros ponentes -->
+## Sobre nuestros ponentes
 
-<!-- *Bryan Guerrero* -->
+*David Sanchez*
 
-<!-- Actualmente trabajo en michelada.io haciendo ruby on rails y micheladas. Disfruto de codear y tomar cerveza asi como del deporte, principalmente el taekwondo y el motociclismo… ¿mencioné que me gusta la cerveza? -->
+Senior Software Engineer en Salesloft. Se alimenta de café, su espíritu se eleva con una buena cerveza y le encantan los pugs (son demasiado adorables). Cuando no está resolviendo problemas de software, es orgulloso papá de dos pequeños terremotos que lo mantienen en forma. Siempre ha sido apasionado de Ruby pero tiene una relación complicada de telenovela con javascript.
 
-<!-- *Kevin Pérez* -->
+*Juan Perez-Tejeda*
 
-<!-- Kevin es Senior Software Engineer y Senior Consultant en MagmaLabs donde ha trabajado con Ruby on Rails desde hace 6 años. Le encanta todo lo relacionado con tecnología, es entusiasta del PC gaming y es fundador de la comunidad PlayasOnTech en Manzanillo, Colima. -->
+Estudió Lingüística y Full-Stack Web Development. Aprendió a programar con Python, pero desde 2020 prefiere programar con Ruby. Le gustan los juegos de mesa y rodar en la bicicleta.
 
 ## Patrocinadores
 

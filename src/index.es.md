@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Tech Mahindra Guadalajara
+Apex Systems Guadalajara
 
-17 de agosto del 2023
+21 de septiembre del 2023
 
 Todos los detalles en la sección de [eventos](/eventos)
 
