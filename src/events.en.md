@@ -16,7 +16,7 @@ September 21st 2023 - Apex Systems Guadalajara
 
 Address: [Av. de las Américas 1462](https://goo.gl/maps/AhgqQJsey6jPPmoi7)
 
-Free event. Tickets available in [Eventbrite](www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
+Free event. Tickets available in [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
 
 Live streaming in our [YouTube channel](https://www.youtube.com/@comunidadrubymx)
 

@@ -16,7 +16,7 @@ layout: home
 
 Dirección: [Av. de las Américas 1462](https://goo.gl/maps/AhgqQJsey6jPPmoi7)
 
-Entrada gratuita. Registro en [Eventbrite](www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
+Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
 
 Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/@comunidadrubymx)
 
