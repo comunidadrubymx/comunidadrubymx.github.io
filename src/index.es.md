@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Apex Systems Guadalajara
+Envato México
 
-21 de septiembre del 2023
+29 de febrero del 2024
 
 Todos los detalles en la sección de [eventos](/eventos)
 

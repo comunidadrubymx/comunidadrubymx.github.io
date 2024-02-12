@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/septiembre_2023/segundo_anuncio.png)
+![](/images/eventos/febrero_2024/primer_anuncio.png)
 
-21 de septiembre del 2023 - Apex Systems Guadalajara
+29 de febrero del 2024 - Envato México
 
-Dirección: [Av. de las Américas 1462](https://goo.gl/maps/AhgqQJsey6jPPmoi7)
+Dirección: [Manuel Lopez Cotilla 1599](https://maps.app.goo.gl/qUVV1rZGK5TfY9MU9)
 
-Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
+Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-febrero-2024-tickets-826030538577)
 
-Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/@comunidadrubymx)
+Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/watch?v=P57KOw4-KC4)
 
 ---
 
@@ -26,31 +26,31 @@ Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/@comun
 
 7:00 Bienvenida
 
-7:30 David Sanchez - CableReady: la varita mágica del tiempo real
+7:30 Primera charla
 
-7:50 Mensaje de nuestro patrocinador (Apex Systems)
+7:50 Mensaje de nuestro patrocinador (Envato México)
 
-8:00 Juan Perez-Tejeda - IA generativa con Ruby
+8:00 Charla de cierre
 
 8:30 Fin del evento - Networking
 
 ---
 
-## Sobre nuestros ponentes
+<!-- ## Sobre nuestros ponentes -->
 
-*David Sanchez*
+<!-- *David Sanchez* -->
 
-Senior Software Engineer en Salesloft. Se alimenta de café, su espíritu se eleva con una buena cerveza y le encantan los pugs (son demasiado adorables). Cuando no está resolviendo problemas de software, es orgulloso papá de dos pequeños terremotos que lo mantienen en forma. Siempre ha sido apasionado de Ruby pero tiene una relación complicada de telenovela con javascript.
+<!-- Senior Software Engineer en Salesloft. Se alimenta de café, su espíritu se eleva con una buena cerveza y le encantan los pugs (son demasiado adorables). Cuando no está resolviendo problemas de software, es orgulloso papá de dos pequeños terremotos que lo mantienen en forma. Siempre ha sido apasionado de Ruby pero tiene una relación complicada de telenovela con javascript. -->
 
-*Juan Perez-Tejeda*
+<!-- *Juan Perez-Tejeda* -->
 
-Estudió Lingüística y Full-Stack Web Development. Aprendió a programar con Python, pero desde 2020 prefiere programar con Ruby. Le gustan los juegos de mesa y rodar en la bicicleta.
+<!-- Estudió Lingüística y Full-Stack Web Development. Aprendió a programar con Python, pero desde 2020 prefiere programar con Ruby. Le gustan los juegos de mesa y rodar en la bicicleta. -->
 
 ## Patrocinadores
 
-[![https://www.apexsystems.com](/images/patrocinadores/apex_systems.png)](https://www.apexsystems.com)
+[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
 
-Muchas gracias a [Apex Systems](https://www.apexsystems.com) por ser la empresa anfitriona de esta edición.
+Muchas gracias a [Envato México](https://www.envato.com) por ser la empresa anfitriona de esta edición.
 
 
 {% else %}

@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/septiembre_2023/segundo_anuncio.png)
+![](/images/eventos/febrero_2024/primer_anuncio.png)
 
-September 21st 2023 - Apex Systems Guadalajara
+February 29th 2024 - Envato Mexico
 
-Address: [Av. de las Américas 1462](https://goo.gl/maps/AhgqQJsey6jPPmoi7)
+Address: [Manuel Lopez Cotilla 1599](https://maps.app.goo.gl/qUVV1rZGK5TfY9MU9)
 
-Free event. Tickets available in [Eventbrite](https://www.eventbrite.com/e/comunidad-ruby-mx-sesion-septiembre-2023-tickets-711672239827)
+Free event. Tickets available in [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-febrero-2024-tickets-826030538577)
 
-Live streaming in our [YouTube channel](https://www.youtube.com/@comunidadrubymx)
+Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-KC4)
 
 ---
 
@@ -26,31 +26,31 @@ Live streaming in our [YouTube channel](https://www.youtube.com/@comunidadrubymx
 
 7:00 Welcome
 
-7:30 David Sanchez - CableReady: the magic wand of real time
+7:30 First talk
 
-7:50 Sponsor message (Apex Systems)
+7:50 Sponsor message (Envato Mexico)
 
-8:00 Juan Perez-Tejeda - Generative AI with Ruby
+8:00 Closing talk
 
 8:30 End of event - Networking
 
 ---
 
-## About our speakers
+<!-- ## About our speakers -->
 
-*David Sanchez*
+<!-- *David Sanchez* -->
 
-Senior Software Engineer at Salesloft. He lives on coffee, his spirit is lifted by a good beer, and he loves pugs (they're too adorable). When he's not solving software problems, he's the proud dad of two little earthquakes that keep him in shape. He's always been passionate about Ruby but has a complicated soap opera relationship with javascript.
+<!-- Senior Software Engineer at Salesloft. He lives on coffee, his spirit is lifted by a good beer, and he loves pugs (they're too adorable). When he's not solving software problems, he's the proud dad of two little earthquakes that keep him in shape. He's always been passionate about Ruby but has a complicated soap opera relationship with javascript. -->
 
-*Juan Perez-Tejeda*
+<!-- *Juan Perez-Tejeda* -->
 
-He studied Linguistics and Full-Stack Web Development. He learned to program with Python, but as of 2020 he prefers to program with Ruby. He likes board games and riding his bike.
+<!-- He studied Linguistics and Full-Stack Web Development. He learned to program with Python, but as of 2020 he prefers to program with Ruby. He likes board games and riding his bike. -->
 
 ## Sponsors
 
-[![https://www.apexsystems.com](/images/patrocinadores/apex_systems.png)](https://www.apexsystems.com)
+[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
 
-Thanks to [Apex Systems](https://www.apexsystems.com) for being the host company of the month.
+Thanks to [Envato Mexico](https://www.envato.com) for being the host company of the month.
 
 {% else %}
 
