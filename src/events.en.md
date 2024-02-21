@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/febrero_2024/primer_anuncio.png)
+![](/images/eventos/febrero_2024/segundo_anuncio.png)
 
 February 29th 2024 - Envato Mexico
 
@@ -26,7 +26,7 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-
 
 7:00 Welcome
 
-7:30 First talk
+7:30 Ruby in times of recession - Don Chambitas
 
 7:50 Sponsor message (Envato Mexico)
 
@@ -36,11 +36,11 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-
 
 ---
 
-<!-- ## About our speakers -->
+## About our speakers
 
-<!-- *David Sanchez* -->
+*Don Chambitas
 
-<!-- Senior Software Engineer at Salesloft. He lives on coffee, his spirit is lifted by a good beer, and he loves pugs (they're too adorable). When he's not solving software problems, he's the proud dad of two little earthquakes that keep him in shape. He's always been passionate about Ruby but has a complicated soap opera relationship with javascript. -->
+Senior in tech recruitment and daily life learner. Since 2020, he has run a small talent agency in which we present developer profiles to tech companies, mostly from the USA. He has learned the type of profile that Americans like and vice versa, he has the idea of what mexa-developers are looking for in a good job. Last year he started a podcast to which I upload a biweekly episode, you can find it on YouTube and Spotify as Chambeología
 
 <!-- *Juan Perez-Tejeda* -->
 
