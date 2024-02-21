@@ -38,7 +38,7 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-
 
 ## About our speakers
 
-*Don Chambitas
+*Don Chambitas*
 
 Senior in tech recruitment and daily life learner. Since 2020, he has run a small talent agency in which we present developer profiles to tech companies, mostly from the USA. He has learned the type of profile that Americans like and vice versa, he has the idea of what mexa-developers are looking for in a good job. Last year he started a podcast to which I upload a biweekly episode, you can find it on YouTube and Spotify as Chambeología
 
