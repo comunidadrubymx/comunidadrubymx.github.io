@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/febrero_2024/segundo_anuncio.png)
+![](/images/eventos/febrero_2024/tercer_anuncio.png)
 
 February 29th 2024 - Envato Mexico
 
@@ -30,7 +30,7 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-
 
 7:50 Sponsor message (Envato Mexico)
 
-8:00 Closing talk
+8:00 Handling large volumes of data with Ruby - Jaime González Banda
 
 8:30 End of event - Networking
 
@@ -42,9 +42,7 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=P57KOw4-
 
 Senior in tech recruitment and daily life learner. Since 2020, he has run a small talent agency in which we present developer profiles to tech companies, mostly from the USA. He has learned the type of profile that Americans like and vice versa, he has the idea of what mexa-developers are looking for in a good job. Last year he started a podcast to which I upload a biweekly episode, you can find it on YouTube and Spotify as Chambeología
 
-<!-- *Juan Perez-Tejeda* -->
-
-<!-- He studied Linguistics and Full-Stack Web Development. He learned to program with Python, but as of 2020 he prefers to program with Ruby. He likes board games and riding his bike. -->
+*Jaime González Banda*
 
 ## Sponsors
 
