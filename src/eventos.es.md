@@ -44,6 +44,8 @@ Señor en el reclutamiento tech y aprendiz diario de la vida. Desde el 2020 diri
 
 *Jaime González Banda*
 
+Es ingeniero de backend en Placeit by Envato y comenzó con Ruby y Rails en 2015 y ha sido su pan de cada día desde entonces. Ha trabajado en diversas industrias como educación, fintech y neuromarketing.
+
 ## Patrocinadores
 
 [![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)

@@ -44,6 +44,8 @@ Senior in tech recruitment and daily life learner. Since 2020, he has run a smal
 
 *Jaime González Banda*
 
+Backend engineer at Placeit by Envato started with Ruby and Rails in 2015, and it has been his daily bread ever since. He has worked in various industries such as education, fintech, and neuromarketing.
+
 ## Sponsors
 
 [![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
