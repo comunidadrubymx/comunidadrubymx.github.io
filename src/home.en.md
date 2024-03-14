@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-Envato Mexico
+HackerGarage
 
-February 29th, 2024
+April 9th, 2024
 
 All details in the [events](/en/events) section
 
