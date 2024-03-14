@@ -5,7 +5,6 @@ layout: home
 # Eventos
 
 ---
-img { width: 200px; }
 
 ## Próximo evento
 
