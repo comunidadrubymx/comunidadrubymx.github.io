@@ -10,7 +10,7 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/abril_2024/primer_anuncio.png)
+![](/images/eventos/abril_2024/segundo_anuncio.png)
 
 9 de abril del 2024 - HackerGarage
 
@@ -26,25 +26,31 @@ Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/watch?
 
 7:00 Bienvenida
 
-7:30 Primera charla
+7:30 Seguridad de fraude: presente y futuro - Juan Carlos García
 
 7:50 Mensaje de nuestros patrocinadores (YoTePresto y Zenfi)
 
-8:00 Charla de cierre
+8:00 Notificaciones one push vs. Yo Te Presto - Johan Alvarado
 
 8:30 Fin del evento - Networking
 
 ---
 
-<!-- ## Sobre nuestros ponentes -->
+## Sobre nuestros ponentes
 
-<!-- *Don Chambitas* -->
+*Juan Carlos García*
 
-<!-- Señor en el reclutamiento tech y aprendiz diario de la vida. Desde el 2020 dirijo una pequeña agencia de talento en la cual presentamos perfiles developers a empresas tech en su mayoría de USA. He aprendido el tipo de perfil que le gusta al estadounidense y viceversa, tengo la idea de lo que buscan los mexa-developers en una buena chamba. El año pasado comencé un podcast al cual subo un episodio quincenal, lo encuentras en YouTube y Spotify como Chambeología -->
+Trabaja como Software Engineer en indeed y lleva haciendo Ruby alrededor de 8 años. Emprendedor primerizo tratando de hacer una startup
+especializada en Fraud Security.
 
-<!-- *Jaime González Banda* -->
+Se defiende bien en ciberseguridad y desarrollo de malware con C y Rust y llegó a estar en el top 12 de hackthebox México y top 400 del mundo.
+Le gustan las actividades al aire libre como submarinísmo y montañismo
 
-<!-- Es ingeniero de backend en Placeit by Envato y comenzó con Ruby y Rails en 2015 y ha sido su pan de cada día desde entonces. Ha trabajado en diversas industrias como educación, fintech y neuromarketing. -->
+
+*Johan Alvarado*
+
+Ingeniero de software con experiencia en el sector fintech
+
 
 ## Patrocinadores
 
