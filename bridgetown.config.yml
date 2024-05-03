@@ -10,6 +10,23 @@ prefix_default_locale: false
 
 upcoming_event: true
 
+event:
+  event_path: "mayo_2024"
+  current_announcement_path: "primer_anuncio.jpg"
+  venue:
+    address: "Acueducto 6050 - Plaza Acueducto"
+    google_map_link: "https://maps.app.goo.gl/cNpyQVmvsEs3JGvN7"
+  links:
+    eventbrite: "https://www.eventbrite.com.mx/e/ruby-mx-playasontech-sesion-especial-tickets-888435433297"
+    youtube: "https://www.youtube.com/watch?v=QMuQ5e5qI3A"
+
+  es:
+    date: "16 de mayo del 2024"
+    venue: "Density Labs Guadalajara"
+  en:
+    date: "May 16th 2024"
+    venue: "Density Labs Guadalajara"
+
 collections:
   eventos:
     output: true

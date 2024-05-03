@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-HackerGarage
+{{ site.event.es.venue }}
 
-9 de abril del 2024
+{{ site.event.es.date }}
 
 Todos los detalles en la sección de [eventos](/eventos)
 

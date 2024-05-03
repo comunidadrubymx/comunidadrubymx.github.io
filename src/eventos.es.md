@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/abril_2024/segundo_anuncio.png)
+![](/images/eventos/{{ site.event.event_path }}/{{ site.event.current_announcement_path }})
 
-9 de abril del 2024 - HackerGarage
+{{ site.event.es.date }} - {{ site.event.es.venue }}
 
-Dirección: [Marsella 155-Int 105 A](https://maps.app.goo.gl/Hbtxg3R1a9sKBp6g9)
+Dirección: [{{ site.event.venue.address }}]({{ site.event.venue.google_map_link}})
 
-Entrada gratuita. Registro en [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-abril-2024-tickets-862524523067)
+Entrada gratuita. Registro en [Eventbrite]({{ site.event.links.eventbrite}})
 
-Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/watch?v=WZJAbiZ0j5w)
+Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
 
 ---
 
@@ -26,42 +26,44 @@ Tendremos streaming en nuestro [canal de YouTube](https://www.youtube.com/watch?
 
 7:00 Bienvenida
 
-7:30 Seguridad de fraude: presente y futuro - Juan Carlos García
+7:30 Primera charla
 
-7:50 Mensaje de nuestros patrocinadores (YoTePresto y Zenfi)
+7:50 Segunda charla
 
-8:00 Notificaciones one push vs. Yo Te Presto - Johan Alvarado
+8:10 Mensaje de nuestro patrocinador
 
-8:30 Fin del evento - Networking
+8:20 Charla de cierra
+
+8:50 Cierre del evento y networking
 
 ---
 
-## Sobre nuestros ponentes
+<!-- ## Sobre nuestros ponentes -->
 
-*Juan Carlos García*
+<!-- *Juan Carlos García* -->
 
-Trabaja como Software Engineer en indeed y lleva haciendo Ruby alrededor de 8 años. Emprendedor primerizo tratando de hacer una startup
-especializada en Fraud Security.
+<!-- Trabaja como Software Engineer en indeed y lleva haciendo Ruby alrededor de 8 años. Emprendedor primerizo tratando de hacer una startup -->
+<!-- especializada en Fraud Security. -->
 
-Se defiende bien en ciberseguridad y desarrollo de malware con C y Rust y llegó a estar en el top 12 de hackthebox México y top 400 del mundo.
-Le gustan las actividades al aire libre como submarinísmo y montañismo
+<!-- Se defiende bien en ciberseguridad y desarrollo de malware con C y Rust y llegó a estar en el top 12 de hackthebox México y top 400 del mundo. -->
+<!-- Le gustan las actividades al aire libre como submarinísmo y montañismo -->
 
 
-*Johan Alvarado*
+<!-- *Johan Alvarado* -->
 
-Ingeniero de software con experiencia en el sector fintech
+<!-- Ingeniero de software con experiencia en el sector fintech -->
 
 
 ## Patrocinadores
 
-[![https://www.yotepresto.com](/images/patrocinadores/yotepresto.svg)](https://www.yotepresto.com)
+[![https://www.densitylabs.io](/images/patrocinadores/densitylabs.png)](https://www.densitylabs.io)
 {: .small-img}
 
 
-[![https://www.zenfi.mx](/images/patrocinadores/zenfi.png)](https://www.zenfi.mx)
+[![https://www.magmalabs.io](/images/patrocinadores/magmalabs.png)](https://www.magmalabs.io)
 {: .small-img}
 
-Muchas gracias a [YoTePresto](https://www.yotepresto.com) y a [Zenfi](https://www.zenfi.mx) por ser las empresas anfitrionas de esta edición.
+Muchas gracias a [Density Labs](https://www.densitylabs.io) y a [MagmaLabs](https://www.magmalabs.io) por ser las empresas anfitrionas de esta edición.
 
 
 {% else %}

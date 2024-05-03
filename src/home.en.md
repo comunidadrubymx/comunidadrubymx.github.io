@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-HackerGarage
+{{ site.event.en.venue }}
 
-April 9th, 2024
+{{ site.event.en.date }}
 
 All details in the [events](/en/events) section
 

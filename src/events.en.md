@@ -10,15 +10,15 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/abril_2024/segundo_anuncio.png)
+![](/images/eventos/{{ site.event.event_path }}/{{ site.event.current_announcement_path }})
 
-April 9th 2024 - HackerGarage
+{{ site.event.en.date }} - {{ site.event.en.venue }}
 
-Address: [Marsella 155-Int 105 A](https://maps.app.goo.gl/Hbtxg3R1a9sKBp6g9)
+Address: [{{ site.event.venue.address }}]({{ site.event.venue.google_map_link}})
 
-Free event. Tickets available in [Eventbrite](https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-abril-2024-tickets-862524523067)
+Free event. Tickets available in [Eventbrite]({{ site.event.links.eventbrite}})
 
-Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=WZJAbiZ0j5w)
+Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 ---
 
@@ -26,39 +26,42 @@ Live streaming in our [YouTube channel](https://www.youtube.com/watch?v=WZJAbiZ0
 
 7:00 Welcome
 
-7:30 Fraud Security: Present and Future - Juan Carlos Garcia
+7:30 First talk
 
-7:50 Sponsor message (YoTePresto and Zenfi)
+7:50 Second talk
 
-8:00 One puh notification vs Yo Te Presto - Johan Alvarado
+8:10 Sponsor message
+
+8:20 Closing talk
 
 8:30 End of event - Networking
 
 ---
 
-## About our speakers
+<!-- ## About our speakers -->
 
-*Juan Carlos García*
+<!-- *Juan Carlos García* -->
 
-He works as a Software Engineer at Indeed and has been doing Ruby for around 8 years. First time entrepreneur trying to make a startup
-specialized in Fraud Security.
+<!-- He works as a Software Engineer at Indeed and has been doing Ruby for around 8 years. First time entrepreneur trying to make a startup -->
+<!-- specialized in Fraud Security. -->
 
-He defends himself well in cybersecurity and malware development with C and Rust and was in the top 12 of hackthebox Mexico and top 400 in the world.
-He likes outdoor activities like scuba diving and mountaineering.
+<!-- He defends himself well in cybersecurity and malware development with C and Rust and was in the top 12 of hackthebox Mexico and top 400 in the world. -->
+<!-- He likes outdoor activities like scuba diving and mountaineering. -->
 
-*Johan Alvarado*
+<!-- *Johan Alvarado* -->
 
-Software engineer with experience in the fintech sector
+<!-- Software engineer with experience in the fintech sector -->
 
 ## Sponsors
 
-[![https://www.yotepresto.com](/images/patrocinadores/yotepresto.svg)](https://www.yotepresto.com)
+[![https://www.densitylabs.io](/images/patrocinadores/densitylabs.png)](https://www.densitylabs.io)
 {: .small-img}
 
-[![https://www.zenfi.mx](/images/patrocinadores/zenfi.png)](https://www.zenfi.mx)
+
+[![https://www.magmalabs.io](/images/patrocinadores/magmalabs.png)](https://www.magmalabs.io)
 {: .small-img}
 
-Thanks to [YoTePresto](https://www.yotepresto.com) and [Zenfi](https://www.zenfi.mx) for being the host companies of the month.
+Thanks to [Density Labs](https://www.densitylabs.io) and [MagmaLabs](https://www.magmalabs.io) for being the host companies of the month.
 
 {% else %}
 
