@@ -24,35 +24,19 @@ Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:00 Bienvenida
+7:30 Bienvenida
 
-7:30 Primera charla
+8:00 ¿Ser asertivo? - Emmanuel González
 
-7:50 Segunda charla
+8:20 Prompts para LLM, extendiendo sus capacidades - Oswaldo Pineda
 
 8:10 Mensaje de nuestro patrocinador
 
-8:20 Charla de cierra
+8:20 Nuevos roles de QA en tech - Francisco Valdovines
 
 8:50 Cierre del evento y networking
 
 ---
-
-<!-- ## Sobre nuestros ponentes -->
-
-<!-- *Juan Carlos García* -->
-
-<!-- Trabaja como Software Engineer en indeed y lleva haciendo Ruby alrededor de 8 años. Emprendedor primerizo tratando de hacer una startup -->
-<!-- especializada en Fraud Security. -->
-
-<!-- Se defiende bien en ciberseguridad y desarrollo de malware con C y Rust y llegó a estar en el top 12 de hackthebox México y top 400 del mundo. -->
-<!-- Le gustan las actividades al aire libre como submarinísmo y montañismo -->
-
-
-<!-- *Johan Alvarado* -->
-
-<!-- Ingeniero de software con experiencia en el sector fintech -->
-
 
 ## Patrocinadores
 

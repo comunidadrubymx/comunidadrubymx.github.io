@@ -12,7 +12,7 @@ upcoming_event: true
 
 event:
   event_path: "mayo_2024"
-  current_announcement_path: "primer_anuncio.jpg"
+  current_announcement_path: "segundo_anuncio.jpg"
   venue:
     address: "Acueducto 6050 - Plaza Acueducto"
     google_map_link: "https://maps.app.goo.gl/cNpyQVmvsEs3JGvN7"

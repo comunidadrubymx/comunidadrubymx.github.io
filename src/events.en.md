@@ -24,33 +24,19 @@ Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:00 Welcome
+7:30 Welcome
 
-7:30 First talk
+8:00 Being assertive? - Emmanuel González
 
-7:50 Second talk
+8:20 LLM Prompting, extends its capabilities - Oswaldo Pineda
 
-8:10 Sponsor message
+8:40 Sponsor message
 
-8:20 Closing talk
+8:50 New QA roles in tech - Francisco Valdovines
 
-8:30 End of event - Networking
+9:20 End of event - Networking
 
 ---
-
-<!-- ## About our speakers -->
-
-<!-- *Juan Carlos García* -->
-
-<!-- He works as a Software Engineer at Indeed and has been doing Ruby for around 8 years. First time entrepreneur trying to make a startup -->
-<!-- specialized in Fraud Security. -->
-
-<!-- He defends himself well in cybersecurity and malware development with C and Rust and was in the top 12 of hackthebox Mexico and top 400 in the world. -->
-<!-- He likes outdoor activities like scuba diving and mountaineering. -->
-
-<!-- *Johan Alvarado* -->
-
-<!-- Software engineer with experience in the fintech sector -->
 
 ## Sponsors
 
