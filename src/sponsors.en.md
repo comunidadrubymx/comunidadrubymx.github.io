@@ -8,4 +8,4 @@ layout: home
 
 First of all, thank you so much for being interested in supporting our community!
 
-You can download the sponsor prospectus [here](/docs/patrocinio_rubymx.pdf)
+You can download the sponsor prospectus [here](/docs/brochure_en.pdf)
