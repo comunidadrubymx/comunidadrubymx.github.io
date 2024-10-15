@@ -24,30 +24,25 @@ Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:30 Bienvenida
+7:00 Bienvenida
 
-8:00 ¿Ser asertivo? - Emmanuel González
+7:30 Ruby on Rails 8 y el futuro del desarrollo Web - Mario Chávez
 
-8:20 Prompts para LLM, extendiendo sus capacidades - Oswaldo Pineda
+7:50 Mensaje de nuestro patrocinador -  Envato
 
-8:10 Mensaje de nuestro patrocinador
+8:00 Haciendo ingeniería de forma eficiente - Sergio Gómez Ávila
 
-8:20 Nuevos roles de QA en tech - Francisco Valdovines
-
-8:50 Cierre del evento y networking
+8:30 Cierre del evento y networking
 
 ---
 
 ## Patrocinadores
 
-[![https://www.densitylabs.io](/images/patrocinadores/densitylabs.png)](https://www.densitylabs.io)
+[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
 {: .small-img}
 
 
-[![https://www.magmalabs.io](/images/patrocinadores/magmalabs.png)](https://www.magmalabs.io)
-{: .small-img}
-
-Muchas gracias a [Density Labs](https://www.densitylabs.io) y a [MagmaLabs](https://www.magmalabs.io) por ser las empresas anfitrionas de esta edición.
+Muchas gracias a [Envato](https://www.enva.to) por ser la empresa anfitrion de esta edición.
 
 
 {% else %}

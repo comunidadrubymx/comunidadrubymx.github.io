@@ -8,24 +8,24 @@ available_locales: [en, es]
 default_locale: es
 prefix_default_locale: false
 
-upcoming_event: false
+upcoming_event: true
 
 event:
-  event_path: "mayo_2024"
-  current_announcement_path: "segundo_anuncio.jpg"
+  event_path: "octubre_2024"
+  current_announcement_path: "anuncio_final.png"
   venue:
-    address: "Acueducto 6050 - Plaza Acueducto"
-    google_map_link: "https://maps.app.goo.gl/cNpyQVmvsEs3JGvN7"
+    address: "Manuel Lopez Cotilla 1599"
+    google_map_link: "https://maps.app.goo.gl/8eJGJF3eR4ryZ19H8"
   links:
-    eventbrite: "https://www.eventbrite.com.mx/e/ruby-mx-playasontech-sesion-especial-tickets-888435433297"
+    eventbrite: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-octubre-2024-tickets-1039586600507"
     youtube: "https://www.youtube.com/watch?v=QMuQ5e5qI3A"
 
   es:
-    date: "16 de mayo del 2024"
-    venue: "Density Labs Guadalajara"
+    date: "30 de octubre del 2024"
+    venue: "Envato Guadalajara"
   en:
-    date: "May 16th 2024"
-    venue: "Density Labs Guadalajara"
+    date: "October 30th 2024"
+    venue: "Envato Guadalajara"
 
 collections:
   eventos:

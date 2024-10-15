@@ -24,30 +24,24 @@ Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:30 Welcome
+7:00 Welcome
 
-8:00 Being assertive? - Emmanuel González
+7:30 Ruby on Rails 8 and the future of web development - Mario Chávez
 
-8:20 LLM Prompting, extends its capabilities - Oswaldo Pineda
+7:50 Sponsor message - Envato
 
-8:40 Sponsor message
+8:00 Making engineering in an efficient way - Sergio Gómez Ávila
 
-8:50 New QA roles in tech - Francisco Valdovines
-
-9:20 End of event - Networking
+8:30 End of event - Networking
 
 ---
 
 ## Sponsors
 
-[![https://www.densitylabs.io](/images/patrocinadores/densitylabs.png)](https://www.densitylabs.io)
+[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
 {: .small-img}
 
-
-[![https://www.magmalabs.io](/images/patrocinadores/magmalabs.png)](https://www.magmalabs.io)
-{: .small-img}
-
-Thanks to [Density Labs](https://www.densitylabs.io) and [MagmaLabs](https://www.magmalabs.io) for being the host companies of the month.
+Thanks to [Envato](https://www.envato.com) for being the host company of the month.
 
 {% else %}
 
