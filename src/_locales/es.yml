@@ -6,6 +6,7 @@ es:
     code_of_conduct: Código de Conducta
     sponsors: Patrocinadores
     contact: Contacto
+    privacy: Aviso de Privacidad
   urls:
     home: /
     events: /eventos
@@ -13,6 +14,7 @@ es:
     code_of_conduct: /codigo_de_conducta
     sponsors: /patrocinadores
     contact: /contacto
+    privacy: /aviso_de_privacidad
   footer:
     contact: Contáctanos en
     copyright: Todos los derechos reservados.

@@ -25,6 +25,8 @@ footer {
     a {
       padding: 0 1rem;
     }
+
+    margin-bottom: 1rem;
   }
 
   .disclaimer {
@@ -33,6 +35,14 @@ footer {
     padding-top: 1rem;
     text-align: left;
     padding-left: 1rem;
+    margin-block-end: 0;
+  }
+
+  .privacy {
+    color: $terciary-text-color;
+    padding-top: 1rem;
+    text-align: right;
+    padding-right: 1rem;
     margin-block-end: 0;
   }
 }

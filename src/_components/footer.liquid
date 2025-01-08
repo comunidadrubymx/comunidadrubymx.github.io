@@ -25,6 +25,11 @@
     </a>
   </section>
   <section>
-    <p class="disclaimer">Copyright © {{ "now" | date: "%Y" }} Comunidad Ruby MX - {% t footer.copyright %}</p>
+    <span class="disclaimer">Copyright © {{ "now" | date: "%Y" }} Comunidad Ruby MX - {% t footer.copyright %}</span>
+  </section>
+  <section>
+    <span class="privacy">
+      <a href="{% t urls.privacy %}">{% t navbar.privacy %}</a>
+    </span>
   </section>
 </footer>
