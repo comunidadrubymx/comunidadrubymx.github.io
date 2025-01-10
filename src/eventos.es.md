@@ -24,25 +24,25 @@ Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:00 Bienvenida
+6:00 Bienvenida
 
-7:30 Ruby on Rails 8 y el futuro del desarrollo Web - Mario Chávez
+6:30 Primera charla
 
-7:50 Mensaje de nuestro patrocinador -  Envato
+6:50 Mensaje de nuestro patrocinador -  Buk
 
-8:00 Haciendo ingeniería de forma eficiente - Sergio Gómez Ávila
+7:00 Charla de cierre
 
-8:30 Cierre del evento y networking
+7:30 Cierre del evento y networking
 
 ---
 
 ## Patrocinadores
 
-[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
+[![https://www.buk.mx](/images/patrocinadores/buk.png)](https://www.buk.mx)
 {: .small-img}
 
 
-Muchas gracias a [Envato](https://www.enva.to) por ser la empresa anfitrion de esta edición.
+Muchas gracias a [Buk](https://www.buk.mx) por ser la empresa anfitriona de esta edición y a [BBVA Spark Space Guadalajara](https://www.bbvaspark.com/contenido/es/spark-space/guadalajara/) por sus instalaciones
 
 
 {% else %}

@@ -8,24 +8,24 @@ available_locales: [en, es]
 default_locale: es
 prefix_default_locale: false
 
-upcoming_event: true
+upcoming_event: yes
 
 event:
-  event_path: "octubre_2024"
-  current_announcement_path: "anuncio_final.png"
+  event_path: "enero_2025"
+  current_announcement_path: "primer_anuncio.png"
   venue:
-    address: "Manuel Lopez Cotilla 1599"
-    google_map_link: "https://maps.app.goo.gl/8eJGJF3eR4ryZ19H8"
+    address: "Paseo de los Virreyes 45, Puera de Hierro"
+    google_map_link: "https://maps.app.goo.gl/X5mkA5XDSPY9kUc89"
   links:
-    eventbrite: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-octubre-2024-tickets-1039586600507"
-    youtube: "https://www.youtube.com/watch?v=QMuQ5e5qI3A"
+    eventbrite: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-enero-2025-tickets-1142947941059?aff=oddtdtcreator"
+    youtube: "https://www.youtube.com/watch?v=16gi5GHoJI4"
 
   es:
-    date: "30 de octubre del 2024"
-    venue: "Envato Guadalajara"
+    date: "30 de enero del 2025"
+    venue: "BBVA Open Space Guadalajara"
   en:
-    date: "October 30th 2024"
-    venue: "Envato Guadalajara"
+    date: "January 30th 2025"
+    venue: "BBVA Open Space Guadalajara"
 
 collections:
   eventos:

@@ -5,10 +5,10 @@ const componentsContext = require.context("bridgetownComponents", true, /.js$/)
 componentsContext.keys().forEach(componentsContext)
 
 const upcomingEvent = {
-  year: 2024,
-  month: 10,
+  year: 2025,
+  month: 1,
   day: 30,
-  hours: 19,
+  hours: 18,
   minutes: 0,
   seconds: 0
 }

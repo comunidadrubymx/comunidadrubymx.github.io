@@ -24,24 +24,24 @@ Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 ## Agenda
 
-7:00 Welcome
+6:00 Welcome
 
-7:30 Ruby on Rails 8 and the future of web development - Mario Chávez
+6:30 First talk
 
-7:50 Sponsor message - Envato
+6:50 Sponsor message - Buk
 
-8:00 Making engineering in an efficient way - Sergio Gómez Ávila
+7:00 Closing talk
 
-8:30 End of event - Networking
+7:30 End of event - Networking
 
 ---
 
 ## Sponsors
 
-[![https://www.envato.com](/images/patrocinadores/envato.png)](https://www.envato.com)
+[![https://www.buk.mx](/images/patrocinadores/buk.png)](https://www.buk.mx)
 {: .small-img}
 
-Thanks to [Envato](https://www.envato.com) for being the host company of the month.
+Thanks to [Buk](https://www.buk.mx) for being the host company of the month and [BBVA Spark Space Guadalajara](https://www.bbvaspark.com/contenido/es/spark-space/guadalajara/) for the venue
 
 {% else %}
 
