@@ -12,7 +12,7 @@ upcoming_event: yes
 
 event:
   event_path: "enero_2025"
-  current_announcement_path: "primer_anuncio.png"
+  current_announcement_path: "tercer_anuncio.png"
   venue:
     address: "Paseo de los Virreyes 45, Puera de Hierro"
     google_map_link: "https://maps.app.goo.gl/X5mkA5XDSPY9kUc89"

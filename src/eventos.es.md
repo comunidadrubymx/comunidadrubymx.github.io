@@ -26,11 +26,11 @@ Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
 
 6:00 Bienvenida
 
-6:30 Primera charla
+6:30 OpenAI con Hotwire - Erendira García
 
 6:50 Mensaje de nuestro patrocinador -  Buk
 
-7:00 Charla de cierre
+7:00 Back to the future: ¿por qué usar un monolito?
 
 7:30 Cierre del evento y networking
 
