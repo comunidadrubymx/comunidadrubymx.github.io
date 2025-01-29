@@ -22,10 +22,10 @@ event:
 
   es:
     date: "30 de enero del 2025"
-    venue: "BBVA Open Space Guadalajara"
+    venue: "BBVA Spark Space Guadalajara"
   en:
     date: "January 30th 2025"
-    venue: "BBVA Open Space Guadalajara"
+    venue: "BBVA Spark Space Guadalajara"
 
 collections:
   eventos:
