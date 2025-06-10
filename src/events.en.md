@@ -24,24 +24,28 @@ Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 ## Agenda
 
-6:00 Welcome
+7:00 Registration
 
-6:30 OpenAI with Hotwire - Erendira García
+7:30 Welcome
 
-6:50 Sponsor message - Buk
+7:40 Types? In my dynamic language? Yes! It's not as bad as it sounds, and the benefits are unimaginable - H. Salazar
 
-7:00 Back to the future: why use a monolith?
+8:00 Second talk
 
-7:30 End of event - Networking
+8:20 Sponsor message - {{site.event.sponsor_name}}
+
+8:30 Closing talk
+
+9:00 End of event and networking
 
 ---
 
 ## Sponsors
 
-[![https://www.buk.mx](/images/patrocinadores/buk.png)](https://www.buk.mx)
+[![{{site.event.links.sponsor}}](/images/patrocinadores/{{site.event.sponsor_name | downcase}}.png)]({{site.event.links.sponsor}})
 {: .small-img}
 
-Thanks to [Buk](https://www.buk.mx) for being the host company of the month and [BBVA Spark Space Guadalajara](https://www.bbvaspark.com/contenido/es/spark-space/guadalajara/) for the venue
+Thanks to [{{site.event.sponsor_name}}]({{site.event.links.sponsor}}) for being the host company of the month.
 
 {% else %}
 

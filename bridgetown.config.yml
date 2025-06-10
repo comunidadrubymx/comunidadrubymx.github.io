@@ -11,21 +11,23 @@ prefix_default_locale: false
 upcoming_event: yes
 
 event:
-  event_path: "enero_2025"
-  current_announcement_path: "tercer_anuncio.png"
+  event_path: "junio_2025"
+  current_announcement_path: "primer_anuncio.png"
+  sponsor_name: "Wizeline"
   venue:
-    address: "Paseo de los Virreyes 45, Puera de Hierro"
-    google_map_link: "https://maps.app.goo.gl/X5mkA5XDSPY9kUc89"
+    address: "Amado Nervo 2200, Jardines del Sol, Zapopan, Jalisco"
+    google_map_link: https://maps.app.goo.gl/NauLFkywQDjRDuW1A"
   links:
-    eventbrite: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-enero-2025-tickets-1142947941059?aff=oddtdtcreator"
-    youtube: "https://www.youtube.com/watch?v=16gi5GHoJI4"
+    eventbrite: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-junio-2025-tickets-1406613090619?aff=oddtdtcreator"
+    youtube: "https://www.youtube.com/watch?v=9aSe6_WlxCo"
+    sponsor: "https://www.wizeline.com"
 
   es:
-    date: "30 de enero del 2025"
-    venue: "BBVA Spark Space Guadalajara"
+    date: "26 de Junio del 2025"
+    venue: "Wizeline"
   en:
-    date: "January 30th 2025"
-    venue: "BBVA Spark Space Guadalajara"
+    date: "June 26th 2025"
+    venue: "Wizeline"
 
 collections:
   eventos:

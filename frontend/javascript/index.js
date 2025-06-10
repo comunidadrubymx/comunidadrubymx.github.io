@@ -6,9 +6,9 @@ componentsContext.keys().forEach(componentsContext)
 
 const upcomingEvent = {
   year: 2025,
-  month: 1,
-  day: 30,
-  hours: 18,
+  month: 6,
+  day: 26,
+  hours: 19,
   minutes: 0,
   seconds: 0
 }
