@@ -34,7 +34,7 @@ Live streaming in our [YouTube channel]({{site.event.links.yotube}})
 
 8:20 Sponsor message - {{site.event.sponsor_name}}
 
-8:30 Closing talk
+8:30 Introspection in Ruby - Armando Alejandre Montemayor
 
 9:00 End of event and networking
 
