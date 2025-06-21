@@ -18,7 +18,7 @@ Dirección: [{{ site.event.venue.address }}]({{ site.event.venue.google_map_link
 
 Entrada gratuita. Registro en [Eventbrite]({{ site.event.links.eventbrite}})
 
-Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.yotube}})
+Tendremos streaming en nuestro [canal de YouTube]({{site.event.links.youtube}})
 
 ---
 

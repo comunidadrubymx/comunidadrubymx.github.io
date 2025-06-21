@@ -18,7 +18,7 @@ Address: [{{ site.event.venue.address }}]({{ site.event.venue.google_map_link}})
 
 Free event. Tickets available in [Eventbrite]({{ site.event.links.eventbrite}})
 
-Live streaming in our [YouTube channel]({{site.event.links.yotube}})
+Live streaming in our [YouTube channel]({{site.event.links.youtube}})
 
 ---
 
