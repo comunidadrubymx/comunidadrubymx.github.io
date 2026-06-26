@@ -16,6 +16,6 @@ layout: home
 
 {% else %}
 
-{% t "home.no_upcoming_event" %}
+{% t home.no_upcoming_event %}
 
 {% endif %}

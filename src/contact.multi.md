@@ -2,13 +2,13 @@
 layout: home
 ---
 
-# Contacto
+# {% t contact.title %}
 
-Puedes enviar tus sugerencias al correo
+{% t contact.intro %}
 
 <info@comunidadruby.mx>
 
-También puedes contactarnos en nuestras redes sociales:
+{% t contact.social %}
 
 [Facebook](https://fb.com/comunidadrubymx)
 
