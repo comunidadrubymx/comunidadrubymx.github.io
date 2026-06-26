@@ -8,13 +8,16 @@ en:
     contact: Contact
     privacy: Privacy
   urls:
-    home: /en/home
+    home: /en/
     events: /en/events
     cfp: /en/cfp
     code_of_conduct: /en/code_of_conduct
     sponsors: /en/sponsors
     contact: /en/contact
     privacy: /en/privacy
+  home:
+    event_details: "All details in the [events](/en/events) section"
+    no_upcoming_event: "We are working on all the details for our upcoming event"
   footer:
     contact: Contact us at
     copyright: All rights reserved

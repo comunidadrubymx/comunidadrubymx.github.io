@@ -15,6 +15,9 @@ es:
     sponsors: /patrocinadores
     contact: /contacto
     privacy: /aviso_de_privacidad
+  home:
+    event_details: "Todos los detalles en la sección de [eventos](/eventos)"
+    no_upcoming_event: "Estamos preparando los detalles para nuestro siguiente evento."
   footer:
     contact: Contáctanos en
     copyright: Todos los derechos reservados.
