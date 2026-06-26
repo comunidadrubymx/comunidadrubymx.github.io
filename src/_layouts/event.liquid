@@ -1,0 +1,25 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+{% if page.image %}
+<img src="{{ page.image }}" alt="{{ page.title }}">
+{% endif %}
+
+{% if page.cancelled %}
+{% if page.locale == 'en' %}
+<p>Cancelled event</p>
+{% else %}
+<p>Evento cancelado</p>
+{% endif %}
+{% else %}
+{% for speaker in page.speakers %}
+{{ speaker | markdownify }}
+{% endfor %}
+
+{% if page.youtube_id %}
+{% render "youtube", youtube_id: page.youtube_id %}
+{% endif %}
+{% endif %}

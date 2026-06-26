@@ -31,14 +31,4 @@ event:
     date: "June 26th 2025"
     venue: "Wizeline"
 
-collections:
-  eventos:
-    output: true
-    permalink: simple
-    future: true
-
-  events:
-    output: true
-    permalink: /en/:collection/:slug.*
-    future: true
 

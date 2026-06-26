@@ -1,0 +1,189 @@
+- slug: 2022-03-16-1
+  date: 2022-03-16
+  image: /images/eventos/marzo_2022.png
+  youtube_id: vIf_krny6LA
+  es:
+    title: Marzo 2022 - Evento Inaugural
+    speakers:
+      - César Eduardo - Novedades de Rails 7 - Antes y Después
+  en:
+    title: March 2022 - Kick-off event
+    speakers:
+      - César Eduardo - Rails 7 Novelties - Before and After
+
+- slug: 2022-04-20-2
+  date: 2022-04-20
+  image: /images/eventos/abril_22.png
+  youtube_id: fv3W6EZ_1ho
+  es:
+    title: Abril 2022
+    speakers:
+      - Eréndira García - Introducción a Turbo Rails
+      - Yannik González - Atomic Design
+  en:
+    title: April 2022
+    speakers:
+      - Eréndira García - Introduction to Turbo Rails
+      - Yannik González - Atomic Design
+
+- slug: 2022-05-18-3
+  date: 2022-05-18
+  youtube_id: Cg5xyYa5d5M
+  es:
+    title: Mayo 2022 - Directo desde Railsconf
+    speakers:
+      - "Esparta Palma - [@esparta](https://twitter.com/esparta)"
+      - "Andrés Robalino - [@andras_io](https://twitter.com/andras_io)"
+      - "Salomón Charabati - [@salochara](https://twitter.com/salochara)"
+  en:
+    title: May 2022 - Direct from Railsconf
+    speakers:
+      - "Esparta Palma - [@esparta](https://twitter.com/esparta)"
+      - "Andrés Robalino - [@andras_io](https://twitter.com/andras_io)"
+      - "Salomón Charabati - [@salochara](https://twitter.com/salochara)"
+
+- slug: 2022-06-23-4
+  date: 2022-06-23
+  image: /images/eventos/junio_2022.png
+  youtube_id: Ve_7Wc_RCpA
+  es:
+    title: Junio 2022
+    speakers:
+      - "Bryan Guerrero - De Pythoner profesional a Rubista aficionado: ¿Se parecen en realidad?"
+      - Eduardo García - Analytics en tiempo real con Rails
+  en:
+    title: June 2022
+    speakers:
+      - "Bryan Guerrero - From Professional Pythonist to Ruby Aficionado: Are they really similar?"
+      - Eduardo García - Real Time Analytics with Rails
+
+- slug: 2022-07-20-5
+  date: 2022-07-20
+  image: /images/eventos/julio_2022.png
+  youtube_id: 9bChwKA2ieY
+  es:
+    title: Julio 2022
+    speakers:
+      - "Yuliana Reyna - Ru[by | st] el vínculo entre Ruby y Rust"
+      - Ángel Malavar - Low Code Tools / Lowest effort API para superar una migración inminente
+  en:
+    title: July 2022
+    speakers:
+      - "Yuliana Reyna - Ru[by | st] the link between Ruby and Rust"
+      - Ángel Malavar - Low Code Tools / Lowest effort API to deal with an imminent migration
+
+- slug: 2022-08-24-6
+  date: 2022-08-24
+  image: /images/eventos/agosto/flyer_final.png
+  youtube_id: iMem_eR_FpA
+  es:
+    title: Agosto 2022
+    speakers:
+      - Guillermo Moreno - Actualizando Rails y no morir en el intento
+      - Brian Martinez - Metaprogramming, el superpoder que no deberías abusar
+  en:
+    title: August 2022
+    speakers:
+      - Guillermo Moreno - Updating Rails and not dying trying
+      - Brian Martinez - Metaprogramming, the superpower you should not abuse
+
+- slug: 2022-09-21-7
+  date: 2022-09-21
+  image: /images/eventos/septiembre_2022/primer_speaker.png
+  cancelled: true
+  es:
+    title: Septiembre 2022
+  en:
+    title: September 2022
+
+- slug: 2022-10-26-8
+  date: 2022-10-26
+  image: /images/eventos/octubre_2022/final_announcement.png
+  youtube_id: Zvwyz_EPdio
+  es:
+    title: Octubre 2022
+    speakers:
+      - Fernando Perales - El pasado, presente y futuro de Ruby
+      - Norma Medrano - Product Design
+  en:
+    title: October 2022
+    speakers:
+      - Fernando Perales - Present, past, and future of Ruby
+      - Norma Medrano - Product Design
+
+- slug: 2023-01-25-9
+  date: 2023-01-25
+  image: /images/eventos/enero_2023/cuarto_anuncio.png
+  youtube_id: 0jKoW2Um4Ko
+  es:
+    title: Enero 2023
+    speakers:
+      - "Miguel Raz Guzmán - Cómo no aprender Rust: una guía práctica para primerizos y entusiastas"
+      - "Joaquín Benitez - El metaverso habla Javascript: una breve y rápida introducción al desarrollo web en 3D"
+      - Salvador Hernández - Cerrando la brecha entre la academia y la industria TI
+  en:
+    title: January 2023
+    speakers:
+      - "Miguel Raz Guzmán - How to not learn Rust: a practical guide for beginners and enthusiasts"
+      - "Joaquín Benitez - Metaverse speaks Javascript: a quick and brief introduction to 3D web design"
+      - Salvador Hernández - Closing the gap between academy and IT industry
+
+- slug: 2023-03-29-10
+  date: 2023-03-29
+  image: /images/eventos/marzo_2023/tercer_anuncio.png
+  youtube_id: A1mnSgeE4DU
+  es:
+    title: Marzo 2023 - Evento de aniversario
+    speakers:
+      - Juan C. Ruiz - Sobreviviendo a integraciones de terceros
+      - Javier Treviño - Principio de inversión de dependencia
+  en:
+    title: March 2023 - Anniversary event
+    speakers:
+      - Juan C. Ruiz - Surviving 3rd party integrations
+      - Javier Treviño - Dependency inversion principle
+
+- slug: 2023-08-17-11
+  date: 2023-08-17
+  image: /images/eventos/agosto_2023/segundo_anuncio.png
+  youtube_id: RH5FJJInOMU
+  es:
+    title: Agosto 2023
+    speakers:
+      - Kevin Perez - Grafana for non-devops
+      - Bryan Guerrero - La clase de arquitectura de software que no tuviste en la escuela
+  en:
+    title: August 2023
+    speakers:
+      - Kevin Perez - Grafana for non-devops
+      - Bryan Guerrero - The software architecture class that you did not get at school
+
+- slug: 2023-09-21-12
+  date: 2023-09-21
+  image: /images/eventos/septiembre_2023/segundo_anuncio.png
+  youtube_id: Gy-lhSIZ4jo
+  es:
+    title: Septiembre 2023
+    speakers:
+      - "David Sanchez - CableReady: la varita mágica del tiempo real"
+      - Juan Perez-Tejeda - IA generativa con Ruby
+  en:
+    title: September 2023
+    speakers:
+      - "David Sanchez - CableReady: the magic wand of real time"
+      - Juan Perez-Tejeda - Generative AI with Ruby
+
+- slug: 2024-02-29-13
+  date: 2024-02-29
+  image: /images/eventos/febrero_2024/tercer_anuncio.png
+  youtube_id: P57KOw4-KC4
+  es:
+    title: Febrero 2024
+    speakers:
+      - Don Chambitas - El Ruby en los tiempos de recesión
+      - Jaime González Banda - Manejando grandes volúmenes de datos con Ruby
+  en:
+    title: February 2024
+    speakers:
+      - Don Chambitas - Ruby in times of recession
+      - Jaime González Banda - Handling large volumes of data with Ruby

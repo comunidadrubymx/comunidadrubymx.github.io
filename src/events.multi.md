@@ -47,12 +47,7 @@ layout: home
 
 ## {% t events.past_heading %}
 
-{% if site.locale == 'es' %}
-{% for event in collections.eventos.resources %}
- <a href="{{ event.relative_url }}">{{ event.title }}</a>
+{% for event in site.data.events %}
+{% capture event_url %}{% if site.locale == 'es' %}/events/{% else %}/en/events/{% endif %}{{ event.slug }}/{% endcapture %}
+ <a href="{{ event_url }}">{{ event[site.locale].title }}</a>
 {% endfor %}
-{% else %}
-{% for event in collections.events.resources %}
- <a href="{{ event.relative_url }}">{{ event.title }}</a>
-{% endfor %}
-{% endif %}
