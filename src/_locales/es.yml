@@ -9,14 +9,95 @@ es:
     privacy: Aviso de Privacidad
   urls:
     home: /
-    events: /eventos
+    events: /events
     cfp: /cfp
-    code_of_conduct: /codigo_de_conducta
-    sponsors: /patrocinadores
-    contact: /contacto
-    privacy: /aviso_de_privacidad
+    code_of_conduct: /code_of_conduct
+    sponsors: /sponsors
+    contact: /contact
+    privacy: /privacy
+  home:
+    event_details: "Todos los detalles en la sección de [eventos](/events)"
+    no_upcoming_event: "Estamos preparando los detalles para nuestro siguiente evento."
   footer:
     contact: Contáctanos en
     copyright: Todos los derechos reservados.
+  cfp:
+    title: Quiero dar una charla
+    body: "Te dejamos el [formulario](https://docs.google.com/forms/d/e/1FAIpQLSeKL5KlgN9ldjOtnfpRkKV_qFN0pMC5nF5ysJVRoQC5dvZeWw/viewform) para enviar tu propuesta. Nos pondremos en contacto contigo a la brevedad."
+  contact:
+    title: Contacto
+    intro: Puedes enviar tus sugerencias al correo
+    social: "También puedes contactarnos en nuestras redes sociales:"
+  sponsors:
+    title: Patrocinadores
+    heading: ¿Te interesa ser patrocinador?
+    body: "Antes que nada, ¡muchas gracias por tu interés en apoyar a nuestra comunidad!"
+    brochure: "Puedes descargar el documento con información de patrocinio [aquí](/docs/brochure_es.pdf)"
+    brochure_path: /docs/brochure_es.pdf
+  code_of_conduct:
+    title: Nuestro Código de conducta
+    body: |
+      Nosotros, los organizadores de Comunidad Ruby MX, nos comprometemos a mantener un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación sexual, discapacidad, aspecto físico, edad, raza, nacionalidad o creencias religiosas. No toleraremos el acoso a los asistentes del evento bajo ningún concepto. Los participantes que violen estas reglas, pueden ser sancionados o expulsados del recinto inmediatamente a discreción de la organización de Comunidad Ruby MX.
 
+      Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relacionados con sexo, identidad u orientación sexuales, discapacidades, aspecto físico, edad, raza, nacionalidad o creencias religiosas, intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas, y atenciones sexuales no gratas. Los patrocinadores y presentadores están también sujetos al código de conducta.
 
+      Si algún asistente al evento muestra cualquier conducta abusiva, la organización de Comunidad Ruby MX pueden tomar cualquier acción que crean apropiada, incluyendo llamarle la atención o expulsarle de la comunidad y cualquier evento futuro de la misma. Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente o envíanos un correo a [info@comunidadruby.mx](mailto:info@comunidadruby.mx)
+  privacy:
+    title: Nuestro Aviso de Privacidad
+    body: |
+      En Comunidad RubyMX, tu privacidad y la protección de tus datos personales son muy importantes para nosotros. Te informamos que en nuestro evento únicamente recopilamos datos como nombre y apellido, correo electrónico, empresa, puesto y tipo de empresa.
+
+      ## Uso de Datos
+
+      Los datos recolectados antes, durante y después del evento son utilizados únicamente para fines estadísticos y de análisis para mejorar nuestros futuros eventos.
+
+      ## Datos Recolectados por Eventbrite
+
+      Para el manejo de tu entrada al evento, utilizamos los servicios de Eventbrite. Los datos personales que proporciones a Eventbrite (https://www.eventbrite.com.mx/) son responsabilidad exclusiva de esta plataforma, y se rigen bajo su propio aviso de privacidad. Comunidad RubyMX utiliza la información proporcionada por Eventbrite únicamente para gestionar tu participación en el evento.
+
+      ## Datos Proporcionados a Patrocinadores
+
+      Los datos personales recolectados quedarán bajo el control y manejo de la empresa patrocinadora correspondiente y, en caso de aplicar, la sede del evento. Comunidad RubyMX no tiene acceso ni responsabilidad sobre estos datos una vez compartidos.
+
+      ## Derechos de los Participantes
+
+      Usted tiene derecho a conocer qué datos personales se tienen de usted, para qué se utilizan y las condiciones del uso que les damos (Acceso). Asimismo, es su derecho solicitar la corrección de su información personal en caso de que esté desactualizada, sea inexacta o incompleta (Rectificación); que la eliminemos de nuestros registros o bases de datos cuando considere que la misma no está siendo utilizada conforme a los principios, deberes y obligaciones previstas en la ley (Cancelación); así como oponerse al uso de sus datos personales para fines específicos (Oposición). Estos derechos se conocen como derechos ARCO.
+
+      Para el ejercicio de cualquiera de los derechos ARCO, usted podrá presentar su solicitud al correo datos_personales@comunidadruby.mx
+
+      ## Consentimiento para Fotografías y Redes Sociales
+
+      Al adquirir tu boleto para los eventos organizador por Comunidad RubyMX, aceptas que tu imagen podría ser capturada en fotografías y videos durante el evento. Estas imágenes pueden ser utilizadas para fines promocionales en nuestras redes sociales, las de nuestros patrocinadores y otros materiales relacionados con el evento.
+
+      Si tienes preocupaciones o preferencias específicas sobre tu aparición en estas imágenes, por favor contáctanos con anticipación, hasta dos semanas antes del evento, a través de un correo electrónico a info@comunidadruby.mx.
+
+      ## Contacto
+
+      Si tienes alguna pregunta o necesitas más información sobre nuestro manejo de datos anónimos, puedes contactarnos en datos_personales@comunidadruby.mx
+  events:
+    title: Eventos
+    upcoming_heading: Próximo evento
+    address_label: "Dirección:"
+    free_entry: Entrada gratuita. Registro en
+    streaming: Tendremos streaming en nuestro
+    youtube_label: canal de YouTube
+    agenda_heading: Agenda
+    agenda_before_sponsor: |
+      7:00 Registro
+
+      7:30 Bienvenida
+
+      7:40 "¿Tipos? ¿En mi lenguaje dinámico?" ¡Sí! No es tan malo como parece, y los beneficios son inimaginables - H. Salazar
+
+      8:00 Segunda charla
+
+      8:20 Mensaje de nuestro patrocinador -
+    agenda_after_sponsor: |
+      8:30 Introspección en Ruby - Armando Alejandre Montemayor
+
+      9:00 Cierre del evento y networking
+    sponsors_heading: Patrocinadores
+    sponsor_thanks_pre: "Muchas gracias a"
+    sponsor_thanks_post: "por ser la empresa anfitriona de esta edición."
+    no_upcoming_event: Estamos preparando los detalles para nuestro siguiente evento.
+    past_heading: Eventos anteriores

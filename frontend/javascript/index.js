@@ -9,7 +9,7 @@ const upcomingEvent = {
   seconds: 0
 }
 
-simplyCountdown('#countdown', {
+simplyCountdown('#countdown-es', {
   year: upcomingEvent.year,
   month: upcomingEvent.month,
   day: upcomingEvent.day,
