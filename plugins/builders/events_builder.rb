@@ -8,10 +8,19 @@ module Builders
     def build
       generator do
         site.data.events.each { |event| generate_resources(event) }
+        set_upcoming_event
       end
     end
 
     private
+
+    def set_upcoming_event
+      upcoming = site.data.events.find do |event|
+        next false unless event["date"]
+        event["date"].to_time > site.time
+      end
+      site.config["upcoming_event"] = upcoming || false
+    end
 
     def generate_resources(event)
       slug = event["slug"]

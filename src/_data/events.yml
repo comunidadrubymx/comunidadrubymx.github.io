@@ -187,3 +187,20 @@
     speakers:
       - Don Chambitas - Ruby in times of recession
       - Jaime González Banda - Handling large volumes of data with Ruby
+
+- slug: 2025-06-26-14
+  date: 2025-06-26
+  image: /images/eventos/junio_2025/primer_anuncio.png
+  youtube_id: 9aSe6_WlxCo
+  sponsor_name: "Wizeline"
+  sponsor_link: "https://www.wizeline.com"
+  venue_address: "Amado Nervo 2200, Jardines del Sol, Zapopan, Jalisco"
+  venue_map_link: "https://maps.app.goo.gl/NauLFkywQDjRDuW1A"
+  registration_link: "https://www.eventbrite.com.mx/e/comunidad-ruby-mx-sesion-junio-2025-tickets-1406613090619?aff=oddtdtcreator"
+  stream_link: "https://www.youtube.com/watch?v=9aSe6_WlxCo"
+  es:
+    title: "Junio 2025"
+    venue_name: "Wizeline"
+  en:
+    title: "June 2025"
+    venue_name: "Wizeline"

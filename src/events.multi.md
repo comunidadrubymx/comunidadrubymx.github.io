@@ -10,21 +10,21 @@ layout: home
 
 {% if site.upcoming_event %}
 
-![](/images/eventos/{{ site.event.event_path }}/{{ site.event.current_announcement_path }})
+![]({{ site.upcoming_event.image }})
 
-{{ site.event[site.locale].date }} - {{ site.event[site.locale].venue }}
+{{ site.upcoming_event.date | localize_date: site.locale }} - {{ site.upcoming_event[site.locale].venue_name }}
 
-{% t events.address_label %} [{{ site.event.venue.address }}]({{ site.event.venue.google_map_link}})
+{% t events.address_label %} [{{ site.upcoming_event.venue_address }}]({{ site.upcoming_event.venue_map_link }})
 
-{% t events.free_entry %} [Eventbrite]({{ site.event.links.eventbrite}})
+{% t events.free_entry %} [Eventbrite]({{ site.upcoming_event.registration_link }})
 
-{% t events.streaming %} [{% t events.youtube_label %}]({{site.event.links.youtube}})
+{% t events.streaming %} [{% t events.youtube_label %}]({{ site.upcoming_event.stream_link }})
 
 ---
 
 ## {% t events.agenda_heading %}
 
-{{ "events.agenda_before_sponsor" | t }} {{site.event.sponsor_name}}
+{{ "events.agenda_before_sponsor" | t | markdownify }} {{site.upcoming_event.sponsor_name}}
 
 {{ "events.agenda_after_sponsor" | t }}
 
@@ -32,10 +32,10 @@ layout: home
 
 ## {% t events.sponsors_heading %}
 
-[![{{site.event.links.sponsor}}](/images/patrocinadores/{{site.event.sponsor_name | downcase}}.png)]({{site.event.links.sponsor}})
+[![{{site.upcoming_event.sponsor_link}}](/images/patrocinadores/{{site.upcoming_event.sponsor_name | downcase}}.png)]({{site.upcoming_event.sponsor_link}})
 {: .small-img}
 
-{% t events.sponsor_thanks_pre %} [{{ site.event.sponsor_name }}]({{ site.event.links.sponsor }}) {% t events.sponsor_thanks_post %}
+{% t events.sponsor_thanks_pre %} [{{ site.upcoming_event.sponsor_name }}]({{ site.upcoming_event.sponsor_link }}) {% t events.sponsor_thanks_post %}
 
 {% else %}
 

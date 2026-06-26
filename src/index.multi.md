@@ -6,9 +6,9 @@ layout: home
 
 {% if site.upcoming_event %}
 
-{{ site.event[site.locale].venue }}
+{{ site.upcoming_event[site.locale].venue_name }}
 
-{{ site.event[site.locale].date }}
+{{ site.upcoming_event.date | localize_date: site.locale }}
 
 {{ "home.event_details" | t | markdownify }}
 
