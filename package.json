@@ -3,23 +3,19 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "webpack-build": "webpack --mode production",
-    "webpack-dev": "webpack --mode development -w"
+    "esbuild": "node esbuild.config.js",
+    "esbuild-dev": "node esbuild.config.js --watch",
+    "start": "node start.js",
+    "deploy": "rake deploy",
+    "serve": "bundle exec bridgetown serve",
+    "sync": "node sync.js"
   },
   "devDependencies": {
-    "css-loader": "~6.7.1",
+    "browser-sync": "^3.0.2",
+    "concurrently": "^8.2.0",
     "esbuild": "~0.25.0",
-    "esbuild-loader": "~2.19.0",
-    "mini-css-extract-plugin": "^1.3.1",
-    "sass": "^1.32.8",
-    "sass-loader": "^8.0.2",
-    "webpack": "~5.104.1",
-    "webpack-cli": "~4.9.2",
-    "webpack-manifest-plugin": "~5.0.0",
-    "webpack-merge": "^5.8.0"
-  },
-  "resolutions": {
-    "postcss-focus-within": "^4.0.0"
+    "esbuild-sass-plugin": "^2.16.1",
+    "sass": "^1.32.8"
   },
   "dependencies": {
     "bootstrap": "^5.3.1",

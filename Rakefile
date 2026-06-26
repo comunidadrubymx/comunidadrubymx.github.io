@@ -25,14 +25,14 @@ task :clean do
 end
 
 namespace :frontend do
-  desc "Build the frontend with Webpack for deployment"
+  desc "Build the frontend with esbuild for deployment"
   task :build do
-    sh "yarn run webpack-build"
+    sh "node esbuild.config.js"
   end
 
-  desc "Watch the frontend with Webpack during development"
+  desc "Watch the frontend with esbuild during development"
   task :dev do
-    sh "yarn run webpack-dev --color"
+    sh "node esbuild.config.js --watch"
   rescue Interrupt
   end
 end

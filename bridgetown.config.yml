@@ -1,5 +1,7 @@
 url: "https://comunidadruby.mx"
 
+template_engine: liquid
+
 permalink: pretty
 
 email: "info@comunidadruby.mx"
