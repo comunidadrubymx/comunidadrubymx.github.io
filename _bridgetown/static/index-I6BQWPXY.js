@@ -8,7 +8,7 @@
     minutes: 0,
     seconds: 0
   };
-  simplyCountdown("#countdown", {
+  simplyCountdown("#countdown-es", {
     year: upcomingEvent.year,
     month: upcomingEvent.month,
     day: upcomingEvent.day,
@@ -71,4 +71,4 @@
     }
   };
 })();
-//# sourceMappingURL=index-VMRQLRMD.js.map
+//# sourceMappingURL=index-I6BQWPXY.js.map
