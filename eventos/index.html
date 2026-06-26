@@ -8,13 +8,16 @@
 
 <meta name="description" content="Página de la Comunidad Ruby MX, donde cada mes nos reunímos para hablar sobre Ruby y su ecosistema. Con sede en Guadalajara, Jalisco, buscamos ser un espacio de reunión para los Rubyístas de México, y, por qué no, de habla hispana" />
 <script src="https://kit.fontawesome.com/b416b8c4de.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="/_bridgetown/static/css/main.7a05f60d2ea7c036cca3.css" />
+<link rel="stylesheet" href="/_bridgetown/static/index-6RLOGARZ.css" />
 <script src="https://unpkg.com/simplycountdown.js@1.7.0/dist/simplyCountdown.min.js" defer></script>
-<script src="/_bridgetown/static/js/main.95fa71806cbf8939d2ea.js" defer></script>
+<script src="/_bridgetown/static/index-VMRQLRMD.js" defer></script>
 <script type="module">let lastmod = 0
-function startReloadConnection() {
-  const evtSource = new EventSource("/_bridgetown/live_reload")
-  evtSource.onmessage = event => {
+let reconnectAttempts = 0
+function startLiveReload() {
+  const connection = new EventSource("/_bridgetown/live_reload")
+
+  connection.addEventListener("message", event => {
+    reconnectAttempts = 0
     if (document.querySelector("#bridgetown-build-error")) document.querySelector("#bridgetown-build-error").close()
     if (event.data == "reloaded!") {
       location.reload()
@@ -26,8 +29,9 @@ function startReloadConnection() {
         lastmod = newmod
       }
     }
-  }
-  evtSource.addEventListener("builderror", event => {
+  })
+
+  connection.addEventListener("builderror", event => {
     let dialog = document.querySelector("#bridgetown-build-error")
     if (!dialog) {
       dialog = document.createElement("dialog")
@@ -44,19 +48,23 @@ function startReloadConnection() {
     }
     dialog.querySelector("pre").textContent = JSON.parse(event.data)
   })
-  evtSource.onerror = event => {
-    if (evtSource.readyState === 2) {
-      // reconnect with new object
-      evtSource.close()
-      console.warn("Live reload: attempting to reconnect in 3 seconds...")
 
-      setTimeout(() => startReloadConnection(), 3000)
+  connection.addEventListener("error", () => {
+    if (connection.readyState === 2) {
+      // reconnect with new object
+      connection.close()
+      reconnectAttempts++
+      if (reconnectAttempts < 25) {
+        console.warn("Live reload: attempting to reconnect in 3 seconds...")
+        setTimeout(() => startLiveReload(), 3000)
+      } else {
+        console.error("Too many live reload connections failed. Refresh the page to try again.")
+      }
     }
-  }
+  })
 }
-setTimeout(() => {
-  startReloadConnection()
-}, 500)
+
+startLiveReload()
 </script>
 
   </head>
@@ -184,7 +192,7 @@ setTimeout(() => {
     </a>
   </section>
   <section>
-    <span class="disclaimer">Copyright © 2025 Comunidad Ruby MX - Todos los derechos reservados.</span>
+    <span class="disclaimer">Copyright © 2026 Comunidad Ruby MX - Todos los derechos reservados.</span>
   </section>
   <section>
     <span class="privacy">
